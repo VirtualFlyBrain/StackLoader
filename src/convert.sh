@@ -58,7 +58,7 @@ else
               
               rm -v ${dirName}volume.wlz
               
-              script=$woolzDir"WlzSetVoxelSize -x1 -y1 -z1.5 "${dirName}"volume_th.wlz"
+              script=$woolzDir"WlzSetVoxelSize ${voxelSize} "${dirName}"volume_th.wlz"
               echo "VoxelSize: " $script
               eval $script > ${dirName}volume.wlz
               if [ -f ${dirName}volume.wlz ]
