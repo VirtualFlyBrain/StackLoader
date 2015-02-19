@@ -113,5 +113,5 @@ else
     else
       echo WARNING: Not processing $ref, $label
     fi
-    
+  done  
 fi
