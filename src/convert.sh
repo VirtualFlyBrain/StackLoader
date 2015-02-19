@@ -64,6 +64,7 @@ else
               if [ -f ${dirName}volume.wlz ]
               then
                 rm -v ${dirName}volume_th.wlz
+                rm -v ${dirName}volume.tif
                 echo "Converted woolz successfully!"
                 echo "Moving files:"
                 if [ ! -d ${imageDir}${first} ]
