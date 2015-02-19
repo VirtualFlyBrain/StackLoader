@@ -28,7 +28,7 @@ else
       echo WARNING: Not processing $ref, $label
     fi
   done
-  chmod -R 777 ${imageDir}${first}
+  chmod -R 777 ${imageDir}${first} 2>/dev/null
   echo ------------------------------------------------------
   echo Now run the following comand inside the owl directory of the repository you want to add the files new files to
   echo .
