@@ -7,7 +7,7 @@ else
   export dirName='./PutAlignedFilesInHere/'
   export woolzDir='nice /disk/data/VFBTools/Woolz2013Full/bin/'
   export fijiBin='nice /disk/data/VFBTools/Fiji/ImageJ-linux64 --headless'
-  export sriptDir='/disk/data/VFB/IMAGE_DATA/StrackProcessing/scripts/'
+  export sriptDir='/disk/data/VFB/IMAGE_DATA/StackProcessing/scripts/'
   export imageDir='/disk/data/VFB/IMAGE_DATA/VFB/i/'
   export thumbGen='nice python /disk/data/VFBTools/3DstackDisplay/images2MaxProjPNG_tn.py'
   cat linkData.tsv | while IFS=$'\t' read -ra VFBI
