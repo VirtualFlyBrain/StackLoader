@@ -10,5 +10,13 @@ To add new datasets on Karenin:
 5) To add links within the development repository ready for pushing to GitHub simple run the folowing script in the owl directory of vfbdev or vfb#sb then commit and push to coresponding GitHub repo
 
 ```bash
-cat /partition/karenin/VFB/IMAGE_DATA/StackLoader/linkData.tsv | while IFS=$'\t' read -ra VFBI; do last=$(echo ${VFBI[1]} | replace 'VFB_' '' | cut -c 5-) ; first=$(echo ${VFBI[1]} | replace 'VFB_' '' |  cut -c 1-4) ; ref=$(echo ${VFBI[1]} | replace 'VFB_' 'VFBi_' ) ; ln -sf ../data/VFB/i/$first/$last/ ./$ref ; ln -sf ./${ref}/index.html ./${VFBI[1]} ; echo $ref ;done
+cat /partition/karenin/VFB/IMAGE_DATA/StackLoader/linkData.tsv | while IFS=$'\t' read -ra VFBI
+do 
+  last=$(echo ${VFBI[1]} | replace 'VFB_' '' | cut -c 5-)
+  first=$(echo ${VFBI[1]} | replace 'VFB_' '' |  cut -c 1-4) 
+  ref=$(echo ${VFBI[1]} | replace 'VFB_' 'VFBi_' ) 
+  ln -sf ../data/VFB/i/$first/$last/ ./$ref
+  ln -sf ./${ref}/index.html ./${VFBI[1]}
+  echo $ref
+done
 ```
