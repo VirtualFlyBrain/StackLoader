@@ -18,7 +18,7 @@ else
     then
       last=$(echo ${ref} | replace 'VFB_' '' | cut -c 5-)
       first=$(echo ${ref} | replace 'VFB_' '' |  cut -c 1-4)
-      nf=$(ls ${dirName}*${label}*.nrrd | wc -l)
+      nf=$(ls ${dirName}*${label}*.nrrd 2>/dev/null | wc -l)
       if [ nf -gt 0 ]
       then
         if [ nf -gt 1 ]
@@ -26,7 +26,7 @@ else
           echo ERROR: Multiple files found for $label when processing $ref
         else
           echo Processing ${ref}...
-          file=$(ls ${dirName}*${label}*.nrrd)
+          file=$(ls ${dirName}*${label}*.nrrd 2>/dev/null)
           echo Found file $file for $label
           echo Converting to woolz format...
           if [ -f ${dirName}volume.wlz ] 
@@ -78,14 +78,14 @@ else
                 rm -v ${dirName}volume.nrrd
                 
                 echo "Handling Thumbnails:"
-                nf=$(ls ${dirName}*${label}*.png | wc -l)
+                nf=$(ls ${dirName}*${label}*.png 2>/dev/null | wc -l)
                 if [ nf -gt 0 ]
                 then
                   if [ nf -gt 1 ]
                   then
                     echo ERROR: Multiple files found for $label when processing $ref
                   else
-                    file=$(ls ${dirName}*${label}*.png)
+                    file=$(ls ${dirName}*${label}*.png 2>/dev/null)
                     mv -v $file ${imageDir}${first}/${last}/thumbnail.png
                   fi
                 else
