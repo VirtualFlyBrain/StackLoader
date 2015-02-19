@@ -92,8 +92,8 @@ else
                 else
                   echo WARNING: No thumbnail files found containing $label when processing $ref
                   echo Creating one...
-                  ${thumbGen} ${dirName}volume.nrrd
-                  mv -v ${dirName}volume_tn.png ${dirName}thumbnail.png
+                  ${thumbGen} ${imageDir}${first}/${last}/volume.nrrd
+                  mv -v ${imageDir}${first}/${last}/volume_tn.png ${imageDir}${first}/${last}/thumbnail.png
                   echo $ref complete
                 fi
               else
