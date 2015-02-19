@@ -45,7 +45,7 @@ else
             if [ -f ${dirName}volume.tif ]
             then
               #Creating Woolz file: Creating woolz
-              script=$woolzDir'WlzExtFFConvert -f tif -F wlz -o '$dirName'/wlz/0020.wlz '${dirName}'volume.tif'
+              script=$woolzDir'WlzExtFFConvert -f tif -F wlz -o '${dirName}'volume.wlz '${dirName}'volume.tif'
               echo "Executing Script: " $script
               $script
               
