@@ -29,7 +29,7 @@ else
   echo ------------------------------------------------------
   echo Now run the following comand inside the owl directory of the repository you want to add the files new files to
   echo .
-  echo "cat /partition/karenin/VFB/IMAGE_DATA/StackLoading/linkData.tsv | while IFS=$'\t' read -ra VFBI; do last=$(echo ${VFBI[1]} | replace 'VFB_' '' | cut -c 5-) ; first=$(echo ${VFBI[1]} | replace 'VFB_' '' |  cut -c 1-4) ; ref=$(echo ${VFBI[1]} | replace 'VFB_' 'VFBi_' ) ; ln -sf ../data/VFB/i/$first/$last/ ./$ref ; echo $ref ;done"
+  echo "cat /partition/karenin/VFB/IMAGE_DATA/StackLoader/linkData.tsv | while IFS=$'\t' read -ra VFBI; do last=$(echo ${VFBI[1]} | replace 'VFB_' '' | cut -c 5-) ; first=$(echo ${VFBI[1]} | replace 'VFB_' '' |  cut -c 1-4) ; ref=$(echo ${VFBI[1]} | replace 'VFB_' 'VFBi_' ) ; ln -sf ../data/VFB/i/$first/$last/ ./$ref ; echo $ref ;done"
   echo .
   echo ------------------------------------------------------
 fi
