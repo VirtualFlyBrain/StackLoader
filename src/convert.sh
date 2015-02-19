@@ -19,9 +19,9 @@ else
       last=$(echo ${ref} | replace 'VFB_' '' | cut -c 5-)
       first=$(echo ${ref} | replace 'VFB_' '' |  cut -c 1-4)
       nf=$(ls ${dirName}*${label}*.nrrd 2>/dev/null | wc -l)
-      if [ nf -gt 0 ]
+      if [ $nf -gt 0 ]
       then
-        if [ nf -gt 1 ]
+        if [ $nf -gt 1 ]
         then
           echo ERROR: Multiple files found for $label when processing $ref
         else
@@ -79,9 +79,9 @@ else
                 
                 echo "Handling Thumbnails:"
                 nf=$(ls ${dirName}*${label}*.png 2>/dev/null | wc -l)
-                if [ nf -gt 0 ]
+                if [ $nf -gt 0 ]
                 then
-                  if [ nf -gt 1 ]
+                  if [ $nf -gt 1 ]
                   then
                     echo ERROR: Multiple files found for $label when processing $ref
                   else
