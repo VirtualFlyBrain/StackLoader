@@ -1,5 +1,6 @@
 #!/bin/bash
 # Find files that match the label, convert to wlz, move the original and the wlz copy to their VFB ref folder.
+source /partition/bocian/VFBTools/python-modules-2.6/bin/activate
 if [ ! -f ./linkData.tsv ]
 then
   echo "linkData.tsv file is missing! See linkData.tsv for an example"
