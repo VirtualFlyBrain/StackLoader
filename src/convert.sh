@@ -99,7 +99,7 @@ else
                 echo "Error creating woolz!"
               fi
             else
-              echo ERROR: Failed to convet file $file into tif when processing $ref ($label)
+              echo ERROR: Failed to convet file $file into tif when processing $ref, $label
             fi
 
     
@@ -111,7 +111,7 @@ else
         echo ERROR: No files found containing $label when processing $ref
       fi
     else
-      echo WARNING: Not processing $ref ($label)
+      echo WARNING: Not processing $ref, $label
     fi
     
 fi
