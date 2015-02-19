@@ -74,7 +74,7 @@ else
                   mkdir ${imageDir}${first}/${last}
                 fi
                 mv -v ${file} ${imageDir}${first}/${last}/volume.nrrd
-                mv -v ${dirName}volume.wlz 
+                mv -v ${dirName}volume.wlz ${imageDir}${first}/${last}/volume.wlz
                 rm -v ${dirName}volume.nrrd
                 
                 echo "Handling Thumbnails:"
