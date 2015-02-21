@@ -21,10 +21,15 @@ else
     then
       last=$(echo ${ref} | replace 'VFB_' '' | cut -c 5-)
       first=$(echo ${ref} | replace 'VFB_' '' |  cut -c 1-4)
-      sliceNum=$(python /partition/bocian/VFBTools/NRRDtools/sliceNumber.py ${imageDir}${first}/${last}/volume.nrrd)
-      offset=$(echo ${sliceNum}*${zSlice}/2 | bc)
-      sliceMax=$(python /partition/bocian/VFBTools/NRRDtools/brightestSlice.py ${imageDir}${first}/${last}/volume.nrrd)
-      dist=$(echo ${sliceMax}*${zSlice}-${offset} | bc | awk '{printf("%d\n",$1 + 0.5)}')
+      if [ -f ${imageDir}${first}/${last}/volume.nrrd ]
+      then
+        sliceNum=$(python /partition/bocian/VFBTools/NRRDtools/sliceNumber.py ${imageDir}${first}/${last}/volume.nrrd)
+        offset=$(echo ${sliceNum}*${zSlice}/2 | bc)
+        sliceMax=$(python /partition/bocian/VFBTools/NRRDtools/brightestSlice.py ${imageDir}${first}/${last}/volume.nrrd)
+        dist=$(echo ${sliceMax}*${zSlice}-${offset} | bc | awk '{printf("%d\n",$1 + 0.5)}')
+      else
+        dist=0
+      fi
       cat ${templateDir}${jsoTemplate} | replace 'FFFF' ${first} | replace 'LLLL' ${last} | replace '"distance":"0"' '"distance":"'${dist}'"' > ${imageDir}${first}/${last}/data.jso
       echo Created json data file for $ref
       echo '<html><head><meta HTTP-EQUIV="REFRESH" content="0; url=/site/tools/view_stack/3rdPartyStack.htm?tpbid='${ref}'"></head></html>' > ${imageDir}${first}/${last}/index.html
