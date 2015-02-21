@@ -15,4 +15,4 @@ if [ ! -f ${folder}volume.nrrd ]; then result=$(echo ${result},1); else result=$
 echo ${result} | replace ',' $'\t' >> history/fullFilesList.tsv
 done
 cat history/fullFilesList.tsv | grep $'\t''1' >> history/missingFiles.tsv
-
+cat history/missingFiles.tsv | grep '1'$'\t' | while IFS=$'\t' read -ra VFBI; do cat completeDataSet.tsv | grep ${VFBI[0]} >> history/missingData.tsv ; done
