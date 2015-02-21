@@ -92,11 +92,14 @@ else
                   fi
                 else
                   echo WARNING: No thumbnail files found containing $label when processing $ref
-                  echo Creating one...
-                  ${thumbGen} ${imageDir}${first}/${last}/volume.nrrd
-                  mv -v ./volume_tn.png ${imageDir}${first}/${last}/thumbnail.png
-                  echo $ref complete
+                  if [ ! -f ${imageDir}${first}/${last}/thumbnail.png ]
+		  then
+		  	echo Creating one...
+                  	${thumbGen} ${imageDir}${first}/${last}/volume.nrrd
+                  	mv -v ./volume_tn.png ${imageDir}${first}/${last}/thumbnail.png
+		  fi
                 fi
+		echo $ref complete
               else
                 echo "Error creating woolz!"
               fi
