@@ -1,95 +1,96 @@
-LHa2_02	VFB_00020000
-SLPa_l1_02	VFB_00020001
-SLPpl3_02	VFB_00020002
-FLAa3m_02	VFB_00020003
-VPNl_d1_02	VFB_00020004
-WEDa2_02	VFB_00020005
-DM1_02	VFB_00020006
-SMPpd1_02	VFB_00020007
-ALl1_02	VFB_00020008
-LHa1_02	VFB_00020009
-SMPpv1_02	VFB_00020010
-LHl2_02	VFB_00020011
-ALv2_02	VFB_00020012
-ALlv1_02	VFB_00020013
-SMPad1f_02	VFB_00020014
-SLPpm1_02	VFB_00020015
-LHl1_02	VFB_00020016
-PSa1_02	VFB_00020017
-CLp2_02	VFB_00020018
-SLPav3_02	VFB_00020019
-DM5_02	VFB_00020020
-AOTUv4_02	VFB_00020021
-VLPl_p1_02	VFB_00020022
-SLPpl2_02	VFB_00020023
-WEDd2_02	VFB_00020024
-VLPl_d1_02	VFB_00020025
-SIPp1_02	VFB_00020026
-LHp1_02	VFB_00020027
-DL2_02	VFB_00020028
-WEDa1_02	VFB_00020029
-SLPpm3_02	VFB_00020030
-PSp3_02	VFB_00020031
-ALad1_02	VFB_00020032
-LHd1_02	VFB_00020033
-DM3_02	VFB_00020034
-VLPl1_02	VFB_00020035
-VPNd1_02	VFB_00020036
-VESa2_02	VFB_00020037
-SMPpv2_02	VFB_00020038
-LHd2_02	VFB_00020039
-VESa1_02	VFB_00020040
-DM2_02	VFB_00020041
-SLPad1_02	VFB_00020042
-AOTUv3_02	VFB_00020043
-VLPp_l1_02	VFB_00020044
-VLPa2_02	VFB_00020045
-EBa1_02	VFB_00020046
-LHp2_02	VFB_00020047
-DM6_02	VFB_00020048
-VLPl_p2_02	VFB_00020049
-CREa1f_02	VFB_00020050
-SLPal3_02	VFB_00020051
-SLPal4_02	VFB_00020052
-VLPa1_02	VFB_00020053
-VPNp_v1_02	VFB_00020054
-PSp2_02	VFB_00020055
-LALv1_02	VFB_00020056
-PBp1_02	VFB_00020057
-SMPad3_02	VFB_00020058
-SLPal5_02	VFB_00020059
-FLAa3f_02	VFB_00020060
-AOTUv2_02	VFB_00020061
-DL1_02	VFB_00020062
-FLAa2_02	VFB_00020063
-FLAa1_02	VFB_00020064
-SMPp_v1_02	VFB_00020065
-ALv1_02	VFB_00020066
-VLPp1_02	VFB_00020067
-SMPad2_02	VFB_00020068
-CLp1_02	VFB_00020069
-VLPd_p1_02	VFB_00020070
-VLPp2_02	VFB_00020071
-PSp1_02	VFB_00020072
-SLPpm2_02	VFB_00020073
-SLPal1_02	VFB_00020074
-AOTUv1_02	VFB_00020075
-VLPl2_02	VFB_00020076
-SLPpl1_02	VFB_00020077
-VLPd1_02	VFB_00020078
-SLPp_v1_02	VFB_00020079
-SLPav2_02	VFB_00020080
-WEDd1_02	VFB_00020081
-SMPad1m_02	VFB_00020082
-CREa1m_02	VFB_00020083
-VPNp1_02	VFB_00020084
-DM4_02	VFB_00020085
-LHl3_02	VFB_00020086
-VLPl4_02	VFB_00020087
-LHl4_02	VFB_00020088
-SLPav1_02	VFB_00020089
-SLPal2_02	VFB_00020090
-MBp1_02	VFB_00020091
-CREa2_02	VFB_00020092
-SIPa1_02	VFB_00020093
-LHa3_02	VFB_00020094
+label	vfbid	sourcename	sourceuri
+LHa2_02	VFB_00020000	Yu2013	http://flybase.org/reports/FBrf0221412.html
+SLPa_l1_02	VFB_00020001	Yu2013	http://flybase.org/reports/FBrf0221412.html
+SLPpl3_02	VFB_00020002	Yu2013	http://flybase.org/reports/FBrf0221412.html
+FLAa3m_02	VFB_00020003	Yu2013	http://flybase.org/reports/FBrf0221412.html
+VPNl_d1_02	VFB_00020004	Yu2013	http://flybase.org/reports/FBrf0221412.html
+WEDa2_02	VFB_00020005	Yu2013	http://flybase.org/reports/FBrf0221412.html
+DM1_02	VFB_00020006	Yu2013	http://flybase.org/reports/FBrf0221412.html
+SMPpd1_02	VFB_00020007	Yu2013	http://flybase.org/reports/FBrf0221412.html
+ALl1_02	VFB_00020008	Yu2013	http://flybase.org/reports/FBrf0221412.html
+LHa1_02	VFB_00020009	Yu2013	http://flybase.org/reports/FBrf0221412.html
+SMPpv1_02	VFB_00020010	Yu2013	http://flybase.org/reports/FBrf0221412.html
+LHl2_02	VFB_00020011	Yu2013	http://flybase.org/reports/FBrf0221412.html
+ALv2_02	VFB_00020012	Yu2013	http://flybase.org/reports/FBrf0221412.html
+ALlv1_02	VFB_00020013	Yu2013	http://flybase.org/reports/FBrf0221412.html
+SMPad1f_02	VFB_00020014	Yu2013	http://flybase.org/reports/FBrf0221412.html
+SLPpm1_02	VFB_00020015	Yu2013	http://flybase.org/reports/FBrf0221412.html
+LHl1_02	VFB_00020016	Yu2013	http://flybase.org/reports/FBrf0221412.html
+PSa1_02	VFB_00020017	Yu2013	http://flybase.org/reports/FBrf0221412.html
+CLp2_02	VFB_00020018	Yu2013	http://flybase.org/reports/FBrf0221412.html
+SLPav3_02	VFB_00020019	Yu2013	http://flybase.org/reports/FBrf0221412.html
+DM5_02	VFB_00020020	Yu2013	http://flybase.org/reports/FBrf0221412.html
+AOTUv4_02	VFB_00020021	Yu2013	http://flybase.org/reports/FBrf0221412.html
+VLPl_p1_02	VFB_00020022	Yu2013	http://flybase.org/reports/FBrf0221412.html
+SLPpl2_02	VFB_00020023	Yu2013	http://flybase.org/reports/FBrf0221412.html
+WEDd2_02	VFB_00020024	Yu2013	http://flybase.org/reports/FBrf0221412.html
+VLPl_d1_02	VFB_00020025	Yu2013	http://flybase.org/reports/FBrf0221412.html
+SIPp1_02	VFB_00020026	Yu2013	http://flybase.org/reports/FBrf0221412.html
+LHp1_02	VFB_00020027	Yu2013	http://flybase.org/reports/FBrf0221412.html
+DL2_02	VFB_00020028	Yu2013	http://flybase.org/reports/FBrf0221412.html
+WEDa1_02	VFB_00020029	Yu2013	http://flybase.org/reports/FBrf0221412.html
+SLPpm3_02	VFB_00020030	Yu2013	http://flybase.org/reports/FBrf0221412.html
+PSp3_02	VFB_00020031	Yu2013	http://flybase.org/reports/FBrf0221412.html
+ALad1_02	VFB_00020032	Yu2013	http://flybase.org/reports/FBrf0221412.html
+LHd1_02	VFB_00020033	Yu2013	http://flybase.org/reports/FBrf0221412.html
+DM3_02	VFB_00020034	Yu2013	http://flybase.org/reports/FBrf0221412.html
+VLPl1_02	VFB_00020035	Yu2013	http://flybase.org/reports/FBrf0221412.html
+VPNd1_02	VFB_00020036	Yu2013	http://flybase.org/reports/FBrf0221412.html
+VESa2_02	VFB_00020037	Yu2013	http://flybase.org/reports/FBrf0221412.html
+SMPpv2_02	VFB_00020038	Yu2013	http://flybase.org/reports/FBrf0221412.html
+LHd2_02	VFB_00020039	Yu2013	http://flybase.org/reports/FBrf0221412.html
+VESa1_02	VFB_00020040	Yu2013	http://flybase.org/reports/FBrf0221412.html
+DM2_02	VFB_00020041	Yu2013	http://flybase.org/reports/FBrf0221412.html
+SLPad1_02	VFB_00020042	Yu2013	http://flybase.org/reports/FBrf0221412.html
+AOTUv3_02	VFB_00020043	Yu2013	http://flybase.org/reports/FBrf0221412.html
+VLPp_l1_02	VFB_00020044	Yu2013	http://flybase.org/reports/FBrf0221412.html
+VLPa2_02	VFB_00020045	Yu2013	http://flybase.org/reports/FBrf0221412.html
+EBa1_02	VFB_00020046	Yu2013	http://flybase.org/reports/FBrf0221412.html
+LHp2_02	VFB_00020047	Yu2013	http://flybase.org/reports/FBrf0221412.html
+DM6_02	VFB_00020048	Yu2013	http://flybase.org/reports/FBrf0221412.html
+VLPl_p2_02	VFB_00020049	Yu2013	http://flybase.org/reports/FBrf0221412.html
+CREa1f_02	VFB_00020050	Yu2013	http://flybase.org/reports/FBrf0221412.html
+SLPal3_02	VFB_00020051	Yu2013	http://flybase.org/reports/FBrf0221412.html
+SLPal4_02	VFB_00020052	Yu2013	http://flybase.org/reports/FBrf0221412.html
+VLPa1_02	VFB_00020053	Yu2013	http://flybase.org/reports/FBrf0221412.html
+VPNp_v1_02	VFB_00020054	Yu2013	http://flybase.org/reports/FBrf0221412.html
+PSp2_02	VFB_00020055	Yu2013	http://flybase.org/reports/FBrf0221412.html
+LALv1_02	VFB_00020056	Yu2013	http://flybase.org/reports/FBrf0221412.html
+PBp1_02	VFB_00020057	Yu2013	http://flybase.org/reports/FBrf0221412.html
+SMPad3_02	VFB_00020058	Yu2013	http://flybase.org/reports/FBrf0221412.html
+SLPal5_02	VFB_00020059	Yu2013	http://flybase.org/reports/FBrf0221412.html
+FLAa3f_02	VFB_00020060	Yu2013	http://flybase.org/reports/FBrf0221412.html
+AOTUv2_02	VFB_00020061	Yu2013	http://flybase.org/reports/FBrf0221412.html
+DL1_02	VFB_00020062	Yu2013	http://flybase.org/reports/FBrf0221412.html
+FLAa2_02	VFB_00020063	Yu2013	http://flybase.org/reports/FBrf0221412.html
+FLAa1_02	VFB_00020064	Yu2013	http://flybase.org/reports/FBrf0221412.html
+SMPp_v1_02	VFB_00020065	Yu2013	http://flybase.org/reports/FBrf0221412.html
+ALv1_02	VFB_00020066	Yu2013	http://flybase.org/reports/FBrf0221412.html
+VLPp1_02	VFB_00020067	Yu2013	http://flybase.org/reports/FBrf0221412.html
+SMPad2_02	VFB_00020068	Yu2013	http://flybase.org/reports/FBrf0221412.html
+CLp1_02	VFB_00020069	Yu2013	http://flybase.org/reports/FBrf0221412.html
+VLPd_p1_02	VFB_00020070	Yu2013	http://flybase.org/reports/FBrf0221412.html
+VLPp2_02	VFB_00020071	Yu2013	http://flybase.org/reports/FBrf0221412.html
+PSp1_02	VFB_00020072	Yu2013	http://flybase.org/reports/FBrf0221412.html
+SLPpm2_02	VFB_00020073	Yu2013	http://flybase.org/reports/FBrf0221412.html
+SLPal1_02	VFB_00020074	Yu2013	http://flybase.org/reports/FBrf0221412.html
+AOTUv1_02	VFB_00020075	Yu2013	http://flybase.org/reports/FBrf0221412.html
+VLPl2_02	VFB_00020076	Yu2013	http://flybase.org/reports/FBrf0221412.html
+SLPpl1_02	VFB_00020077	Yu2013	http://flybase.org/reports/FBrf0221412.html
+VLPd1_02	VFB_00020078	Yu2013	http://flybase.org/reports/FBrf0221412.html
+SLPp_v1_02	VFB_00020079	Yu2013	http://flybase.org/reports/FBrf0221412.html
+SLPav2_02	VFB_00020080	Yu2013	http://flybase.org/reports/FBrf0221412.html
+WEDd1_02	VFB_00020081	Yu2013	http://flybase.org/reports/FBrf0221412.html
+SMPad1m_02	VFB_00020082	Yu2013	http://flybase.org/reports/FBrf0221412.html
+CREa1m_02	VFB_00020083	Yu2013	http://flybase.org/reports/FBrf0221412.html
+VPNp1_02	VFB_00020084	Yu2013	http://flybase.org/reports/FBrf0221412.html
+DM4_02	VFB_00020085	Yu2013	http://flybase.org/reports/FBrf0221412.html
+LHl3_02	VFB_00020086	Yu2013	http://flybase.org/reports/FBrf0221412.html
+VLPl4_02	VFB_00020087	Yu2013	http://flybase.org/reports/FBrf0221412.html
+LHl4_02	VFB_00020088	Yu2013	http://flybase.org/reports/FBrf0221412.html
+SLPav1_02	VFB_00020089	Yu2013	http://flybase.org/reports/FBrf0221412.html
+SLPal2_02	VFB_00020090	Yu2013	http://flybase.org/reports/FBrf0221412.html
+MBp1_02	VFB_00020091	Yu2013	http://flybase.org/reports/FBrf0221412.html
+CREa2_02	VFB_00020092	Yu2013	http://flybase.org/reports/FBrf0221412.html
+SIPa1_02	VFB_00020093	Yu2013	http://flybase.org/reports/FBrf0221412.html
+LHa3_02	VFB_00020094	Yu2013	http://flybase.org/reports/FBrf0221412.html

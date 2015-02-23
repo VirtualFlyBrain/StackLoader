@@ -1,95 +1,96 @@
-EBp1_01	VFB_00020095
-LHa4_01	VFB_00020096
-SLPpl4_01	VFB_00020098
-SLPpm4_01	VFB_00020099
-SMPp_v2_01	VFB_00020100
-SMPpd2_01	VFB_00020101
-VLPd2_01	VFB_00020102
-VLPl3_01	VFB_00020103
-VPNd2_01	VFB_00020104
-VPNd3_01	VFB_00020105
-VPNd4_01	VFB_00020106
-VPNp2_01	VFB_00020107
-VPNp3_01	VFB_00020108
-VPNp4_01	VFB_00020109
-VPNv1_01	VFB_00020110
-VPNv2_01	VFB_00020111
-VPNv3_01	VFB_00020112
-SMPad4_01	VFB_00020113
-ALad1_01	VFB_00020186
-ALl1_01	VFB_00020187
-ALlv1_01	VFB_00020188
-ALv1_01	VFB_00020189
-AOTUv1_01	VFB_00020190
-AOTUv2_01	VFB_00020191
-AOTUv3_01	VFB_00020192
-AOTUv4_01	VFB_00020193
-CLp1_01	VFB_00020194
-CREa1_01	VFB_00020195
-CREa2_01	VFB_00020196
-DL1_01	VFB_00020197
-DL2_01	VFB_00020198
-DM1_01	VFB_00020199
-DM2_01	VFB_00020200
-DM3_01	VFB_00020201
-DM4_01	VFB_00020202
-DM5_01	VFB_00020203
-DM6_01	VFB_00020204
-EBa1_01	VFB_00020205
-PSa1_01	VFB_00020206
-FLa1_01	VFB_00020207
-FLAa2_01	VFB_00020208
-LALv1_01	VFB_00020209
-LHa1_01	VFB_00020210
-LHa2_01	VFB_00020211
-LHa3_01	VFB_00020212
-PSp1_01	VFB_00020213
-LHd1_01	VFB_00020214
-LHl1_01	VFB_00020215
-LHl2_01	VFB_00020216
-LHl3_01	VFB_00020217
-LHl4_01	VFB_00020218
-LHp1_01	VFB_00020219
-LHp2_01	VFB_00020220
-MBp1_01	VFB_00020221
-PSp2_01	VFB_00020222
-PSp3_01	VFB_00020223
-SIPa1_01	VFB_00020224
-SLPa_l1_01	VFB_00020225
-SLPad1_01	VFB_00020226
-SLPal1_01	VFB_00020227
-SLPal2_01	VFB_00020228
-SLPal3_01	VFB_00020229
-SLPav1_01	VFB_00020230
-SLPav2_01	VFB_00020231
-SLPp_v1_01	VFB_00020232
-SLPpl1_01	VFB_00020233
-SLPpm1_01	VFB_00020234
-SMPad1_01	VFB_00020235
-SMPad2_01	VFB_00020236
-SMPp_v1_01	VFB_00020237
-SMPpd1_01	VFB_00020238
-VESa1_01	VFB_00020239
-VLPa1_01	VFB_00020240
-VLPa2_01	VFB_00020241
-VLPd_p1_01	VFB_00020242
-VLPd1_01	VFB_00020243
-VLPl_d1_01	VFB_00020244
-VLPl_p1_01	VFB_00020245
-VLPl_p2_01	VFB_00020246
-VLPl1_01	VFB_00020247
-VLPl2_01	VFB_00020248
-VLPp_l1_01	VFB_00020249
-VLPp1_01	VFB_00020250
-VLPp2_01	VFB_00020251
-VPNd1_01	VFB_00020252
-VPNl_d1_01	VFB_00020253
-VPNp_v1_01	VFB_00020254
-VPNp1_01	VFB_00020255
-WEDa1_01	VFB_00020256
-WEDa2_01	VFB_00020257
-WEDd1_01	VFB_00020258
-WEDd2_01	VFB_00020259
-MBp2_01	VFB_00020260
-MBp3_01	VFB_00020261
-MBp4_01	VFB_00020262
+label	vfbid	sourcename	sourceuri
+EBp1_01	VFB_00020095	Ito2013	http://flybase.org/reports/FBrf0221438.html
+LHa4_01	VFB_00020096	Ito2013	http://flybase.org/reports/FBrf0221438.html
+SLPpl4_01	VFB_00020098	Ito2013	http://flybase.org/reports/FBrf0221438.html
+SLPpm4_01	VFB_00020099	Ito2013	http://flybase.org/reports/FBrf0221438.html
+SMPp_v2_01	VFB_00020100	Ito2013	http://flybase.org/reports/FBrf0221438.html
+SMPpd2_01	VFB_00020101	Ito2013	http://flybase.org/reports/FBrf0221438.html
+VLPd2_01	VFB_00020102	Ito2013	http://flybase.org/reports/FBrf0221438.html
+VLPl3_01	VFB_00020103	Ito2013	http://flybase.org/reports/FBrf0221438.html
+VPNd2_01	VFB_00020104	Ito2013	http://flybase.org/reports/FBrf0221438.html
+VPNd3_01	VFB_00020105	Ito2013	http://flybase.org/reports/FBrf0221438.html
+VPNd4_01	VFB_00020106	Ito2013	http://flybase.org/reports/FBrf0221438.html
+VPNp2_01	VFB_00020107	Ito2013	http://flybase.org/reports/FBrf0221438.html
+VPNp3_01	VFB_00020108	Ito2013	http://flybase.org/reports/FBrf0221438.html
+VPNp4_01	VFB_00020109	Ito2013	http://flybase.org/reports/FBrf0221438.html
+VPNv1_01	VFB_00020110	Ito2013	http://flybase.org/reports/FBrf0221438.html
+VPNv2_01	VFB_00020111	Ito2013	http://flybase.org/reports/FBrf0221438.html
+VPNv3_01	VFB_00020112	Ito2013	http://flybase.org/reports/FBrf0221438.html
+SMPad4_01	VFB_00020113	Ito2013	http://flybase.org/reports/FBrf0221438.html
+ALad1_01	VFB_00020186	Ito2013	http://flybase.org/reports/FBrf0221438.html
+ALl1_01	VFB_00020187	Ito2013	http://flybase.org/reports/FBrf0221438.html
+ALlv1_01	VFB_00020188	Ito2013	http://flybase.org/reports/FBrf0221438.html
+ALv1_01	VFB_00020189	Ito2013	http://flybase.org/reports/FBrf0221438.html
+AOTUv1_01	VFB_00020190	Ito2013	http://flybase.org/reports/FBrf0221438.html
+AOTUv2_01	VFB_00020191	Ito2013	http://flybase.org/reports/FBrf0221438.html
+AOTUv3_01	VFB_00020192	Ito2013	http://flybase.org/reports/FBrf0221438.html
+AOTUv4_01	VFB_00020193	Ito2013	http://flybase.org/reports/FBrf0221438.html
+CLp1_01	VFB_00020194	Ito2013	http://flybase.org/reports/FBrf0221438.html
+CREa1_01	VFB_00020195	Ito2013	http://flybase.org/reports/FBrf0221438.html
+CREa2_01	VFB_00020196	Ito2013	http://flybase.org/reports/FBrf0221438.html
+DL1_01	VFB_00020197	Ito2013	http://flybase.org/reports/FBrf0221438.html
+DL2_01	VFB_00020198	Ito2013	http://flybase.org/reports/FBrf0221438.html
+DM1_01	VFB_00020199	Ito2013	http://flybase.org/reports/FBrf0221438.html
+DM2_01	VFB_00020200	Ito2013	http://flybase.org/reports/FBrf0221438.html
+DM3_01	VFB_00020201	Ito2013	http://flybase.org/reports/FBrf0221438.html
+DM4_01	VFB_00020202	Ito2013	http://flybase.org/reports/FBrf0221438.html
+DM5_01	VFB_00020203	Ito2013	http://flybase.org/reports/FBrf0221438.html
+DM6_01	VFB_00020204	Ito2013	http://flybase.org/reports/FBrf0221438.html
+EBa1_01	VFB_00020205	Ito2013	http://flybase.org/reports/FBrf0221438.html
+PSa1_01	VFB_00020206	Ito2013	http://flybase.org/reports/FBrf0221438.html
+FLa1_01	VFB_00020207	Ito2013	http://flybase.org/reports/FBrf0221438.html
+FLAa2_01	VFB_00020208	Ito2013	http://flybase.org/reports/FBrf0221438.html
+LALv1_01	VFB_00020209	Ito2013	http://flybase.org/reports/FBrf0221438.html
+LHa1_01	VFB_00020210	Ito2013	http://flybase.org/reports/FBrf0221438.html
+LHa2_01	VFB_00020211	Ito2013	http://flybase.org/reports/FBrf0221438.html
+LHa3_01	VFB_00020212	Ito2013	http://flybase.org/reports/FBrf0221438.html
+PSp1_01	VFB_00020213	Ito2013	http://flybase.org/reports/FBrf0221438.html
+LHd1_01	VFB_00020214	Ito2013	http://flybase.org/reports/FBrf0221438.html
+LHl1_01	VFB_00020215	Ito2013	http://flybase.org/reports/FBrf0221438.html
+LHl2_01	VFB_00020216	Ito2013	http://flybase.org/reports/FBrf0221438.html
+LHl3_01	VFB_00020217	Ito2013	http://flybase.org/reports/FBrf0221438.html
+LHl4_01	VFB_00020218	Ito2013	http://flybase.org/reports/FBrf0221438.html
+LHp1_01	VFB_00020219	Ito2013	http://flybase.org/reports/FBrf0221438.html
+LHp2_01	VFB_00020220	Ito2013	http://flybase.org/reports/FBrf0221438.html
+MBp1_01	VFB_00020221	Ito2013	http://flybase.org/reports/FBrf0221438.html
+PSp2_01	VFB_00020222	Ito2013	http://flybase.org/reports/FBrf0221438.html
+PSp3_01	VFB_00020223	Ito2013	http://flybase.org/reports/FBrf0221438.html
+SIPa1_01	VFB_00020224	Ito2013	http://flybase.org/reports/FBrf0221438.html
+SLPa_l1_01	VFB_00020225	Ito2013	http://flybase.org/reports/FBrf0221438.html
+SLPad1_01	VFB_00020226	Ito2013	http://flybase.org/reports/FBrf0221438.html
+SLPal1_01	VFB_00020227	Ito2013	http://flybase.org/reports/FBrf0221438.html
+SLPal2_01	VFB_00020228	Ito2013	http://flybase.org/reports/FBrf0221438.html
+SLPal3_01	VFB_00020229	Ito2013	http://flybase.org/reports/FBrf0221438.html
+SLPav1_01	VFB_00020230	Ito2013	http://flybase.org/reports/FBrf0221438.html
+SLPav2_01	VFB_00020231	Ito2013	http://flybase.org/reports/FBrf0221438.html
+SLPp_v1_01	VFB_00020232	Ito2013	http://flybase.org/reports/FBrf0221438.html
+SLPpl1_01	VFB_00020233	Ito2013	http://flybase.org/reports/FBrf0221438.html
+SLPpm1_01	VFB_00020234	Ito2013	http://flybase.org/reports/FBrf0221438.html
+SMPad1_01	VFB_00020235	Ito2013	http://flybase.org/reports/FBrf0221438.html
+SMPad2_01	VFB_00020236	Ito2013	http://flybase.org/reports/FBrf0221438.html
+SMPp_v1_01	VFB_00020237	Ito2013	http://flybase.org/reports/FBrf0221438.html
+SMPpd1_01	VFB_00020238	Ito2013	http://flybase.org/reports/FBrf0221438.html
+VESa1_01	VFB_00020239	Ito2013	http://flybase.org/reports/FBrf0221438.html
+VLPa1_01	VFB_00020240	Ito2013	http://flybase.org/reports/FBrf0221438.html
+VLPa2_01	VFB_00020241	Ito2013	http://flybase.org/reports/FBrf0221438.html
+VLPd_p1_01	VFB_00020242	Ito2013	http://flybase.org/reports/FBrf0221438.html
+VLPd1_01	VFB_00020243	Ito2013	http://flybase.org/reports/FBrf0221438.html
+VLPl_d1_01	VFB_00020244	Ito2013	http://flybase.org/reports/FBrf0221438.html
+VLPl_p1_01	VFB_00020245	Ito2013	http://flybase.org/reports/FBrf0221438.html
+VLPl_p2_01	VFB_00020246	Ito2013	http://flybase.org/reports/FBrf0221438.html
+VLPl1_01	VFB_00020247	Ito2013	http://flybase.org/reports/FBrf0221438.html
+VLPl2_01	VFB_00020248	Ito2013	http://flybase.org/reports/FBrf0221438.html
+VLPp_l1_01	VFB_00020249	Ito2013	http://flybase.org/reports/FBrf0221438.html
+VLPp1_01	VFB_00020250	Ito2013	http://flybase.org/reports/FBrf0221438.html
+VLPp2_01	VFB_00020251	Ito2013	http://flybase.org/reports/FBrf0221438.html
+VPNd1_01	VFB_00020252	Ito2013	http://flybase.org/reports/FBrf0221438.html
+VPNl_d1_01	VFB_00020253	Ito2013	http://flybase.org/reports/FBrf0221438.html
+VPNp_v1_01	VFB_00020254	Ito2013	http://flybase.org/reports/FBrf0221438.html
+VPNp1_01	VFB_00020255	Ito2013	http://flybase.org/reports/FBrf0221438.html
+WEDa1_01	VFB_00020256	Ito2013	http://flybase.org/reports/FBrf0221438.html
+WEDa2_01	VFB_00020257	Ito2013	http://flybase.org/reports/FBrf0221438.html
+WEDd1_01	VFB_00020258	Ito2013	http://flybase.org/reports/FBrf0221438.html
+WEDd2_01	VFB_00020259	Ito2013	http://flybase.org/reports/FBrf0221438.html
+MBp2_01	VFB_00020260	Ito2013	http://flybase.org/reports/FBrf0221438.html
+MBp3_01	VFB_00020261	Ito2013	http://flybase.org/reports/FBrf0221438.html
+MBp4_01	VFB_00020262	Ito2013	http://flybase.org/reports/FBrf0221438.html

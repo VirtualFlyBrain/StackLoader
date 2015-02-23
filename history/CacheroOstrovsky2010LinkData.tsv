@@ -1,57 +1,58 @@
-aDT-a_F	VFB_00020114
-aDT-b_F	VFB_00020115
-aDT-c_F	VFB_00020116
-aDT-d_F	VFB_00020117
-aDT-e_F	VFB_00020118
-aDT-f_F	VFB_00020119
-aDT-g_F	VFB_00020120
-aDT-h_F	VFB_00020121
-aIP-a_F	VFB_00020122
-aIP-b_F	VFB_00020123
-aIP-c_F	VFB_00020124
-aIP-d_F	VFB_00020125
-aIP-e_F	VFB_00020126
-aIP-f_F	VFB_00020127
-aIP-g_F	VFB_00020128
-aIP-h_F	VFB_00020129
-aSG-a_F	VFB_00020130
-aSP-a_F	VFB_00020131
-aSP-b_F	VFB_00020132
-aSP-c_F	VFB_00020133
-aSP-d_F	VFB_00020134
-aSP-e_F	VFB_00020135
-aSP-f_F	VFB_00020136
-aSP-g_F	VFB_00020137
-aSP-h_F	VFB_00020138
-aSP-i_F	VFB_00020139
-aSP-j_F	VFB_00020140
-aSP-k_F	VFB_00020141
-aSP-l_F	VFB_00020142
-aSP-m_F	VFB_00020143
-Lo_F	VFB_00020144
-M_F	VFB_00020145
-pIP-a_F	VFB_00020146
-pIP-b_F	VFB_00020147
-pIP-c_F	VFB_00020148
-pIP-d_F	VFB_00020149
-pIP-e_F	VFB_00020150
-pIP-f_F	VFB_00020151
-pIP-g_F	VFB_00020152
-pIP-h_F	VFB_00020153
-pIP-i_F	VFB_00020154
-pIP-j_F	VFB_00020155
-pMP-a_F	VFB_00020156
-pMP-b_F	VFB_00020157
-pMP-c_F	VFB_00020158
-pMP-d_F	VFB_00020159
-pMP-e_F	VFB_00020160
-pMP-f_F	VFB_00020161
-pMP-g_F	VFB_00020162
-pSG-a_F	VFB_00020163
-pSG-b_F	VFB_00020164
-pSG-c_F	VFB_00020165
-pSG-d_F	VFB_00020166
-pSG-e_F	VFB_00020167
-pSP-a_F	VFB_00020168
-pSP-b_F	VFB_00020169
-pSP-c_F	VFB_00020170
+label	vfbid	sourcename	sourceuri
+aDT-a_F	VFB_00020114	CacheroOstrovsky2010	http://flybase.org/reports/FBrf0211926.html
+aDT-b_F	VFB_00020115	CacheroOstrovsky2010	http://flybase.org/reports/FBrf0211926.html
+aDT-c_F	VFB_00020116	CacheroOstrovsky2010	http://flybase.org/reports/FBrf0211926.html
+aDT-d_F	VFB_00020117	CacheroOstrovsky2010	http://flybase.org/reports/FBrf0211926.html
+aDT-e_F	VFB_00020118	CacheroOstrovsky2010	http://flybase.org/reports/FBrf0211926.html
+aDT-f_F	VFB_00020119	CacheroOstrovsky2010	http://flybase.org/reports/FBrf0211926.html
+aDT-g_F	VFB_00020120	CacheroOstrovsky2010	http://flybase.org/reports/FBrf0211926.html
+aDT-h_F	VFB_00020121	CacheroOstrovsky2010	http://flybase.org/reports/FBrf0211926.html
+aIP-a_F	VFB_00020122	CacheroOstrovsky2010	http://flybase.org/reports/FBrf0211926.html
+aIP-b_F	VFB_00020123	CacheroOstrovsky2010	http://flybase.org/reports/FBrf0211926.html
+aIP-c_F	VFB_00020124	CacheroOstrovsky2010	http://flybase.org/reports/FBrf0211926.html
+aIP-d_F	VFB_00020125	CacheroOstrovsky2010	http://flybase.org/reports/FBrf0211926.html
+aIP-e_F	VFB_00020126	CacheroOstrovsky2010	http://flybase.org/reports/FBrf0211926.html
+aIP-f_F	VFB_00020127	CacheroOstrovsky2010	http://flybase.org/reports/FBrf0211926.html
+aIP-g_F	VFB_00020128	CacheroOstrovsky2010	http://flybase.org/reports/FBrf0211926.html
+aIP-h_F	VFB_00020129	CacheroOstrovsky2010	http://flybase.org/reports/FBrf0211926.html
+aSG-a_F	VFB_00020130	CacheroOstrovsky2010	http://flybase.org/reports/FBrf0211926.html
+aSP-a_F	VFB_00020131	CacheroOstrovsky2010	http://flybase.org/reports/FBrf0211926.html
+aSP-b_F	VFB_00020132	CacheroOstrovsky2010	http://flybase.org/reports/FBrf0211926.html
+aSP-c_F	VFB_00020133	CacheroOstrovsky2010	http://flybase.org/reports/FBrf0211926.html
+aSP-d_F	VFB_00020134	CacheroOstrovsky2010	http://flybase.org/reports/FBrf0211926.html
+aSP-e_F	VFB_00020135	CacheroOstrovsky2010	http://flybase.org/reports/FBrf0211926.html
+aSP-f_F	VFB_00020136	CacheroOstrovsky2010	http://flybase.org/reports/FBrf0211926.html
+aSP-g_F	VFB_00020137	CacheroOstrovsky2010	http://flybase.org/reports/FBrf0211926.html
+aSP-h_F	VFB_00020138	CacheroOstrovsky2010	http://flybase.org/reports/FBrf0211926.html
+aSP-i_F	VFB_00020139	CacheroOstrovsky2010	http://flybase.org/reports/FBrf0211926.html
+aSP-j_F	VFB_00020140	CacheroOstrovsky2010	http://flybase.org/reports/FBrf0211926.html
+aSP-k_F	VFB_00020141	CacheroOstrovsky2010	http://flybase.org/reports/FBrf0211926.html
+aSP-l_F	VFB_00020142	CacheroOstrovsky2010	http://flybase.org/reports/FBrf0211926.html
+aSP-m_F	VFB_00020143	CacheroOstrovsky2010	http://flybase.org/reports/FBrf0211926.html
+Lo_F	VFB_00020144	CacheroOstrovsky2010	http://flybase.org/reports/FBrf0211926.html
+M_F	VFB_00020145	CacheroOstrovsky2010	http://flybase.org/reports/FBrf0211926.html
+pIP-a_F	VFB_00020146	CacheroOstrovsky2010	http://flybase.org/reports/FBrf0211926.html
+pIP-b_F	VFB_00020147	CacheroOstrovsky2010	http://flybase.org/reports/FBrf0211926.html
+pIP-c_F	VFB_00020148	CacheroOstrovsky2010	http://flybase.org/reports/FBrf0211926.html
+pIP-d_F	VFB_00020149	CacheroOstrovsky2010	http://flybase.org/reports/FBrf0211926.html
+pIP-e_F	VFB_00020150	CacheroOstrovsky2010	http://flybase.org/reports/FBrf0211926.html
+pIP-f_F	VFB_00020151	CacheroOstrovsky2010	http://flybase.org/reports/FBrf0211926.html
+pIP-g_F	VFB_00020152	CacheroOstrovsky2010	http://flybase.org/reports/FBrf0211926.html
+pIP-h_F	VFB_00020153	CacheroOstrovsky2010	http://flybase.org/reports/FBrf0211926.html
+pIP-i_F	VFB_00020154	CacheroOstrovsky2010	http://flybase.org/reports/FBrf0211926.html
+pIP-j_F	VFB_00020155	CacheroOstrovsky2010	http://flybase.org/reports/FBrf0211926.html
+pMP-a_F	VFB_00020156	CacheroOstrovsky2010	http://flybase.org/reports/FBrf0211926.html
+pMP-b_F	VFB_00020157	CacheroOstrovsky2010	http://flybase.org/reports/FBrf0211926.html
+pMP-c_F	VFB_00020158	CacheroOstrovsky2010	http://flybase.org/reports/FBrf0211926.html
+pMP-d_F	VFB_00020159	CacheroOstrovsky2010	http://flybase.org/reports/FBrf0211926.html
+pMP-e_F	VFB_00020160	CacheroOstrovsky2010	http://flybase.org/reports/FBrf0211926.html
+pMP-f_F	VFB_00020161	CacheroOstrovsky2010	http://flybase.org/reports/FBrf0211926.html
+pMP-g_F	VFB_00020162	CacheroOstrovsky2010	http://flybase.org/reports/FBrf0211926.html
+pSG-a_F	VFB_00020163	CacheroOstrovsky2010	http://flybase.org/reports/FBrf0211926.html
+pSG-b_F	VFB_00020164	CacheroOstrovsky2010	http://flybase.org/reports/FBrf0211926.html
+pSG-c_F	VFB_00020165	CacheroOstrovsky2010	http://flybase.org/reports/FBrf0211926.html
+pSG-d_F	VFB_00020166	CacheroOstrovsky2010	http://flybase.org/reports/FBrf0211926.html
+pSG-e_F	VFB_00020167	CacheroOstrovsky2010	http://flybase.org/reports/FBrf0211926.html
+pSP-a_F	VFB_00020168	CacheroOstrovsky2010	http://flybase.org/reports/FBrf0211926.html
+pSP-b_F	VFB_00020169	CacheroOstrovsky2010	http://flybase.org/reports/FBrf0211926.html
+pSP-c_F	VFB_00020170	CacheroOstrovsky2010	http://flybase.org/reports/FBrf0211926.html
