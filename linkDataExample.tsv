@@ -1,15 +1,15 @@
-label	shortFormID 
-aDT-b_M	VFB_00017893
-aDT-a_M	VFB_00017892
-aDT-c_M	VFB_00017895
-aDT-d_M	VFB_00017896
-aDT-e_M	VFB_00017897
-aDT-f_M	VFB_00017898
-aDT-g_M	VFB_00017899
-aDT-h_M	VFB_00017900
-aIP-a_M	VFB_00017901
-aIP-b_M	VFB_00017902
-aIP-c_M	VFB_00017903
-aIP-d_M	VFB_00017904
-aIP-e_M	VFB_00017905
+label	shortFormID	SourceName	SourceURI
+aDT-b_M	VFB_00017893	FlyCircuit	http://flycircuit.tw/modules.php?name=clearpage&op=detail_table&idid=11606
+aDT-a_M	VFB_00017892	FlyCircuit	http://flycircuit.tw/modules.php?name=clearpage&op=detail_table&idid=11607
+aDT-c_M	VFB_00017895	FlyCircuit	http://flycircuit.tw/modules.php?name=clearpage&op=detail_table&idid=11608
+aDT-d_M	VFB_00017896	FlyCircuit	http://flycircuit.tw/modules.php?name=clearpage&op=detail_table&idid=11609
+aDT-e_M	VFB_00017897	FlyCircuit	http://flycircuit.tw/modules.php?name=clearpage&op=detail_table&idid=11610
+aDT-f_M	VFB_00017898	FlyCircuit	http://flycircuit.tw/modules.php?name=clearpage&op=detail_table&idid=11611
+aDT-g_M	VFB_00017899	FlyCircuit	http://flycircuit.tw/modules.php?name=clearpage&op=detail_table&idid=11612
+aDT-h_M	VFB_00017900	FlyCircuit	http://flycircuit.tw/modules.php?name=clearpage&op=detail_table&idid=11613
+aIP-a_M	VFB_00017901	FlyCircuit	http://flycircuit.tw/modules.php?name=clearpage&op=detail_table&idid=11614
+aIP-b_M	VFB_00017902	FlyCircuit	http://flycircuit.tw/modules.php?name=clearpage&op=detail_table&idid=11615
+aIP-c_M	VFB_00017903	FlyCircuit	http://flycircuit.tw/modules.php?name=clearpage&op=detail_table&idid=11616
+aIP-d_M	VFB_00017904	FlyCircuit	http://flycircuit.tw/modules.php?name=clearpage&op=detail_table&idid=11617
+aIP-e_M	VFB_00017905	FlyCircuit	http://flycircuit.tw/modules.php?name=clearpage&op=detail_table&idid=11618
 
