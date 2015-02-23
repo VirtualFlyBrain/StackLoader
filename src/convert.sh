@@ -119,5 +119,5 @@ else
       echo WARNING: Not processing $ref, $label
     fi
   done  
-  chmod -R 777 . 2>/dev/null
+  chmod -R 777 ${imageDir} 2>/dev/null
 fi
