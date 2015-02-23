@@ -5,6 +5,7 @@
 # 003 - Court Adult VNS
 # 004 - Wood Larval Brain
 # template.
+echo Setting Meta Data... 1>&3
 if [ ! -f ./linkData.tsv ]
 then
   echo "linkData.tsv file is missing! See linkData.tsv for an example"
@@ -17,6 +18,7 @@ else
   do
     label=${VFBI[0]}
     ref=${VFBI[1]}
+    echo $ref 1>&3
     if [[ $ref == "VFB_"* ]]
     then
       last=$(echo ${ref} | replace 'VFB_' '' | cut -c 5-)
