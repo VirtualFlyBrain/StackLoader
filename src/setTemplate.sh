@@ -34,6 +34,12 @@ else
       echo Created json data file for $ref
       echo '<html><head><meta HTTP-EQUIV="REFRESH" content="0; url=/site/tools/view_stack/3rdPartyStack.htm?tpbid='${ref}'"></head></html>' > ${imageDir}${first}/${last}/index.html
       echo Created html link file for $ref
+      SourceName=${VFBI[0]}
+      SourceURI=${VFBI[1]}
+      if [ $SourceName=='' ] ; then SourceName='See definition for reference'; fi
+      if [ $SourceURI=='' ] ; then SourceURI='/site/tools/anatomy_finder/index.htm?id='${ref}; fi
+      echo '<a href="'${SourceURI}'" target="_new" title="Source data from '${SourceName}'" >'${SourceName}'</a>' > ${imageDir}${first}/${last}/source.html
+      echo Created source link file for $SourceName to $SourceURI
     else
       echo WARNING: Not processing $ref, $label
     fi
