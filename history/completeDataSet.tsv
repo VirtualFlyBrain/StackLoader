@@ -16225,64 +16225,64 @@ DvGlutMARCM-F599_seg1	VFB_00016223	FlyCircuit	http://flycircuit.tw/modules.php?n
 DvGlutMARCM-F599_seg2	VFB_00016224	FlyCircuit	http://flycircuit.tw/modules.php?name=clearpage&op=detail_table&idid=16224
 DvGlutMARCM-F600-X2_seg1	VFB_00016225	FlyCircuit	http://flycircuit.tw/modules.php?name=clearpage&op=detail_table&idid=16225
 DvGlutMARCM-F600-X2_seg2	VFB_00016226	FlyCircuit	http://flycircuit.tw/modules.php?name=clearpage&op=detail_table&idid=16226
-aDT-b_M	VFB_00017893	FlyCircuit	
-aDT-a_M	VFB_00017894	FlyCircuit	
-aDT-c_M	VFB_00017895	FlyCircuit	
-aDT-d_M	VFB_00017896	FlyCircuit	
-aDT-e_M	VFB_00017897	FlyCircuit	
-aDT-f_M	VFB_00017898	FlyCircuit	
-aDT-g_M	VFB_00017899	FlyCircuit	
-aDT-h_M	VFB_00017900	FlyCircuit	
-aIP-a_M	VFB_00017901	FlyCircuit	
-aIP-b_M	VFB_00017902	FlyCircuit	
-aIP-c_M	VFB_00017903	FlyCircuit	
-aIP-d_M	VFB_00017904	FlyCircuit	
-aIP-e_M	VFB_00017905	FlyCircuit	
-aIP-f_M	VFB_00017906	FlyCircuit	
-aIP-g_M	VFB_00017907	FlyCircuit	
-aIP-h_M	VFB_00017908	FlyCircuit	
-aIP-i_M	VFB_00017909	FlyCircuit	
-aSG-a_M	VFB_00017910	FlyCircuit	
-aSP-a_M	VFB_00017911	FlyCircuit	
-aSP-b_M	VFB_00017912	FlyCircuit	
-aSP-c_M	VFB_00017913	FlyCircuit	
-aSP-d_M	VFB_00017914	FlyCircuit	
-aSP-e_M	VFB_00017915	FlyCircuit	
-aSP-f_M	VFB_00017916	FlyCircuit	
-aSP-g_M	VFB_00017917	FlyCircuit	
-aSP-h_M	VFB_00017918	FlyCircuit	
-aSP-i_M	VFB_00017919	FlyCircuit	
-aSP-j_M	VFB_00017920	FlyCircuit	
-aSP-k_M	VFB_00017921	FlyCircuit	
-aSP-l_M	VFB_00017922	FlyCircuit	
-aSP-m_M	VFB_00017923	FlyCircuit	
-pIP-a_M	VFB_00017924	FlyCircuit	
-pIP-b_M	VFB_00017925	FlyCircuit	
-pIP-c_M	VFB_00017926	FlyCircuit	
-pIP-d_M	VFB_00017927	FlyCircuit	
-pIP-e_M	VFB_00017928	FlyCircuit	
-pIP-f_M	VFB_00017929	FlyCircuit	
-pIP-g_M	VFB_00017930	FlyCircuit	
-pIP-h_M	VFB_00017931	FlyCircuit	
-pIP-i_M	VFB_00017932	FlyCircuit	
-pIP-j_M	VFB_00017933	FlyCircuit	
-pMP-a_M	VFB_00017934	FlyCircuit	
-pMP-b_M	VFB_00017935	FlyCircuit	
-pMP-c_M	VFB_00017936	FlyCircuit	
-pMP-d_M	VFB_00017937	FlyCircuit	
-pMP-e_M	VFB_00017938	FlyCircuit	
-pMP-f_M	VFB_00017939	FlyCircuit	
-pMP-g_M	VFB_00017940	FlyCircuit	
-pSG-a_M	VFB_00017941	FlyCircuit	
-pSG-b_M	VFB_00017942	FlyCircuit	
-pSG-c_M	VFB_00017943	FlyCircuit	
-pSG-d_M	VFB_00017944	FlyCircuit	
-pSG-e_M	VFB_00017945	FlyCircuit	
-pSP-a_M	VFB_00017946	FlyCircuit	
-pSP-b_M	VFB_00017947	FlyCircuit	
-pSP-d_M	VFB_00017948	FlyCircuit	
-pSP-e_M	VFB_00017949	FlyCircuit	
-pSP-f_M	VFB_00017950	FlyCircuit	
+aDT-b_M	VFB_00017893	CacheroOstrovsky2010	 http://flybrain.mrc-lmb.cam.ac.uk/dokuwiki/doku.php?id=pub:neuroanatomy:fru:start
+aDT-a_M	VFB_00017894	CacheroOstrovsky2010	 http://flybrain.mrc-lmb.cam.ac.uk/dokuwiki/doku.php?id=pub:neuroanatomy:fru:start
+aDT-c_M	VFB_00017895	CacheroOstrovsky2010	 http://flybrain.mrc-lmb.cam.ac.uk/dokuwiki/doku.php?id=pub:neuroanatomy:fru:start
+aDT-d_M	VFB_00017896	CacheroOstrovsky2010	 http://flybrain.mrc-lmb.cam.ac.uk/dokuwiki/doku.php?id=pub:neuroanatomy:fru:start
+aDT-e_M	VFB_00017897	CacheroOstrovsky2010	 http://flybrain.mrc-lmb.cam.ac.uk/dokuwiki/doku.php?id=pub:neuroanatomy:fru:start
+aDT-f_M	VFB_00017898	CacheroOstrovsky2010	 http://flybrain.mrc-lmb.cam.ac.uk/dokuwiki/doku.php?id=pub:neuroanatomy:fru:start
+aDT-g_M	VFB_00017899	CacheroOstrovsky2010	 http://flybrain.mrc-lmb.cam.ac.uk/dokuwiki/doku.php?id=pub:neuroanatomy:fru:start
+aDT-h_M	VFB_00017900	CacheroOstrovsky2010	 http://flybrain.mrc-lmb.cam.ac.uk/dokuwiki/doku.php?id=pub:neuroanatomy:fru:start
+aIP-a_M	VFB_00017901	CacheroOstrovsky2010	 http://flybrain.mrc-lmb.cam.ac.uk/dokuwiki/doku.php?id=pub:neuroanatomy:fru:start
+aIP-b_M	VFB_00017902	CacheroOstrovsky2010	 http://flybrain.mrc-lmb.cam.ac.uk/dokuwiki/doku.php?id=pub:neuroanatomy:fru:start
+aIP-c_M	VFB_00017903	CacheroOstrovsky2010	 http://flybrain.mrc-lmb.cam.ac.uk/dokuwiki/doku.php?id=pub:neuroanatomy:fru:start
+aIP-d_M	VFB_00017904	CacheroOstrovsky2010	 http://flybrain.mrc-lmb.cam.ac.uk/dokuwiki/doku.php?id=pub:neuroanatomy:fru:start
+aIP-e_M	VFB_00017905	CacheroOstrovsky2010	 http://flybrain.mrc-lmb.cam.ac.uk/dokuwiki/doku.php?id=pub:neuroanatomy:fru:start
+aIP-f_M	VFB_00017906	CacheroOstrovsky2010	 http://flybrain.mrc-lmb.cam.ac.uk/dokuwiki/doku.php?id=pub:neuroanatomy:fru:start
+aIP-g_M	VFB_00017907	CacheroOstrovsky2010	 http://flybrain.mrc-lmb.cam.ac.uk/dokuwiki/doku.php?id=pub:neuroanatomy:fru:start
+aIP-h_M	VFB_00017908	CacheroOstrovsky2010	 http://flybrain.mrc-lmb.cam.ac.uk/dokuwiki/doku.php?id=pub:neuroanatomy:fru:start
+aIP-i_M	VFB_00017909	CacheroOstrovsky2010	 http://flybrain.mrc-lmb.cam.ac.uk/dokuwiki/doku.php?id=pub:neuroanatomy:fru:start
+aSG-a_M	VFB_00017910	CacheroOstrovsky2010	 http://flybrain.mrc-lmb.cam.ac.uk/dokuwiki/doku.php?id=pub:neuroanatomy:fru:start
+aSP-a_M	VFB_00017911	CacheroOstrovsky2010	 http://flybrain.mrc-lmb.cam.ac.uk/dokuwiki/doku.php?id=pub:neuroanatomy:fru:start
+aSP-b_M	VFB_00017912	CacheroOstrovsky2010	 http://flybrain.mrc-lmb.cam.ac.uk/dokuwiki/doku.php?id=pub:neuroanatomy:fru:start
+aSP-c_M	VFB_00017913	CacheroOstrovsky2010	 http://flybrain.mrc-lmb.cam.ac.uk/dokuwiki/doku.php?id=pub:neuroanatomy:fru:start
+aSP-d_M	VFB_00017914	CacheroOstrovsky2010	 http://flybrain.mrc-lmb.cam.ac.uk/dokuwiki/doku.php?id=pub:neuroanatomy:fru:start
+aSP-e_M	VFB_00017915	CacheroOstrovsky2010	 http://flybrain.mrc-lmb.cam.ac.uk/dokuwiki/doku.php?id=pub:neuroanatomy:fru:start
+aSP-f_M	VFB_00017916	CacheroOstrovsky2010	 http://flybrain.mrc-lmb.cam.ac.uk/dokuwiki/doku.php?id=pub:neuroanatomy:fru:start
+aSP-g_M	VFB_00017917	CacheroOstrovsky2010	 http://flybrain.mrc-lmb.cam.ac.uk/dokuwiki/doku.php?id=pub:neuroanatomy:fru:start
+aSP-h_M	VFB_00017918	CacheroOstrovsky2010	 http://flybrain.mrc-lmb.cam.ac.uk/dokuwiki/doku.php?id=pub:neuroanatomy:fru:start
+aSP-i_M	VFB_00017919	CacheroOstrovsky2010	 http://flybrain.mrc-lmb.cam.ac.uk/dokuwiki/doku.php?id=pub:neuroanatomy:fru:start
+aSP-j_M	VFB_00017920	CacheroOstrovsky2010	 http://flybrain.mrc-lmb.cam.ac.uk/dokuwiki/doku.php?id=pub:neuroanatomy:fru:start
+aSP-k_M	VFB_00017921	CacheroOstrovsky2010	 http://flybrain.mrc-lmb.cam.ac.uk/dokuwiki/doku.php?id=pub:neuroanatomy:fru:start
+aSP-l_M	VFB_00017922	CacheroOstrovsky2010	 http://flybrain.mrc-lmb.cam.ac.uk/dokuwiki/doku.php?id=pub:neuroanatomy:fru:start
+aSP-m_M	VFB_00017923	CacheroOstrovsky2010	 http://flybrain.mrc-lmb.cam.ac.uk/dokuwiki/doku.php?id=pub:neuroanatomy:fru:start
+pIP-a_M	VFB_00017924	CacheroOstrovsky2010	 http://flybrain.mrc-lmb.cam.ac.uk/dokuwiki/doku.php?id=pub:neuroanatomy:fru:start
+pIP-b_M	VFB_00017925	CacheroOstrovsky2010	 http://flybrain.mrc-lmb.cam.ac.uk/dokuwiki/doku.php?id=pub:neuroanatomy:fru:start
+pIP-c_M	VFB_00017926	CacheroOstrovsky2010	 http://flybrain.mrc-lmb.cam.ac.uk/dokuwiki/doku.php?id=pub:neuroanatomy:fru:start
+pIP-d_M	VFB_00017927	CacheroOstrovsky2010	 http://flybrain.mrc-lmb.cam.ac.uk/dokuwiki/doku.php?id=pub:neuroanatomy:fru:start
+pIP-e_M	VFB_00017928	CacheroOstrovsky2010	 http://flybrain.mrc-lmb.cam.ac.uk/dokuwiki/doku.php?id=pub:neuroanatomy:fru:start
+pIP-f_M	VFB_00017929	CacheroOstrovsky2010	 http://flybrain.mrc-lmb.cam.ac.uk/dokuwiki/doku.php?id=pub:neuroanatomy:fru:start
+pIP-g_M	VFB_00017930	CacheroOstrovsky2010	 http://flybrain.mrc-lmb.cam.ac.uk/dokuwiki/doku.php?id=pub:neuroanatomy:fru:start
+pIP-h_M	VFB_00017931	CacheroOstrovsky2010	 http://flybrain.mrc-lmb.cam.ac.uk/dokuwiki/doku.php?id=pub:neuroanatomy:fru:start
+pIP-i_M	VFB_00017932	CacheroOstrovsky2010	 http://flybrain.mrc-lmb.cam.ac.uk/dokuwiki/doku.php?id=pub:neuroanatomy:fru:start
+pIP-j_M	VFB_00017933	CacheroOstrovsky2010	 http://flybrain.mrc-lmb.cam.ac.uk/dokuwiki/doku.php?id=pub:neuroanatomy:fru:start
+pMP-a_M	VFB_00017934	CacheroOstrovsky2010	 http://flybrain.mrc-lmb.cam.ac.uk/dokuwiki/doku.php?id=pub:neuroanatomy:fru:start
+pMP-b_M	VFB_00017935	CacheroOstrovsky2010	 http://flybrain.mrc-lmb.cam.ac.uk/dokuwiki/doku.php?id=pub:neuroanatomy:fru:start
+pMP-c_M	VFB_00017936	CacheroOstrovsky2010	 http://flybrain.mrc-lmb.cam.ac.uk/dokuwiki/doku.php?id=pub:neuroanatomy:fru:start
+pMP-d_M	VFB_00017937	CacheroOstrovsky2010	 http://flybrain.mrc-lmb.cam.ac.uk/dokuwiki/doku.php?id=pub:neuroanatomy:fru:start
+pMP-e_M	VFB_00017938	CacheroOstrovsky2010	 http://flybrain.mrc-lmb.cam.ac.uk/dokuwiki/doku.php?id=pub:neuroanatomy:fru:start
+pMP-f_M	VFB_00017939	CacheroOstrovsky2010	 http://flybrain.mrc-lmb.cam.ac.uk/dokuwiki/doku.php?id=pub:neuroanatomy:fru:start
+pMP-g_M	VFB_00017940	CacheroOstrovsky2010	 http://flybrain.mrc-lmb.cam.ac.uk/dokuwiki/doku.php?id=pub:neuroanatomy:fru:start
+pSG-a_M	VFB_00017941	CacheroOstrovsky2010	 http://flybrain.mrc-lmb.cam.ac.uk/dokuwiki/doku.php?id=pub:neuroanatomy:fru:start
+pSG-b_M	VFB_00017942	CacheroOstrovsky2010	 http://flybrain.mrc-lmb.cam.ac.uk/dokuwiki/doku.php?id=pub:neuroanatomy:fru:start
+pSG-c_M	VFB_00017943	CacheroOstrovsky2010	 http://flybrain.mrc-lmb.cam.ac.uk/dokuwiki/doku.php?id=pub:neuroanatomy:fru:start
+pSG-d_M	VFB_00017944	CacheroOstrovsky2010	 http://flybrain.mrc-lmb.cam.ac.uk/dokuwiki/doku.php?id=pub:neuroanatomy:fru:start
+pSG-e_M	VFB_00017945	CacheroOstrovsky2010	 http://flybrain.mrc-lmb.cam.ac.uk/dokuwiki/doku.php?id=pub:neuroanatomy:fru:start
+pSP-a_M	VFB_00017946	CacheroOstrovsky2010	 http://flybrain.mrc-lmb.cam.ac.uk/dokuwiki/doku.php?id=pub:neuroanatomy:fru:start
+pSP-b_M	VFB_00017947	CacheroOstrovsky2010	 http://flybrain.mrc-lmb.cam.ac.uk/dokuwiki/doku.php?id=pub:neuroanatomy:fru:start
+pSP-d_M	VFB_00017948	CacheroOstrovsky2010	 http://flybrain.mrc-lmb.cam.ac.uk/dokuwiki/doku.php?id=pub:neuroanatomy:fru:start
+pSP-e_M	VFB_00017949	CacheroOstrovsky2010	 http://flybrain.mrc-lmb.cam.ac.uk/dokuwiki/doku.php?id=pub:neuroanatomy:fru:start
+pSP-f_M	VFB_00017950	CacheroOstrovsky2010	 http://flybrain.mrc-lmb.cam.ac.uk/dokuwiki/doku.php?id=pub:neuroanatomy:fru:start
 LHa2_02	VFB_00020000	Yu2013	http://flybase.org/reports/FBrf0221412.html
 SLPa_l1_02	VFB_00020001	Yu2013	http://flybase.org/reports/FBrf0221412.html
 SLPpl3_02	VFB_00020002	Yu2013	http://flybase.org/reports/FBrf0221412.html
