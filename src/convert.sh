@@ -1,5 +1,6 @@
 #!/bin/bash
 # Find files that match the label, convert to wlz, move the original and the wlz copy to their VFB ref folder.
+echo Converting... 1>&3
 source /partition/bocian/VFBTools/python-modules-2.6/bin/activate
 if [ ! -f ./linkData.tsv ]
 then
@@ -15,6 +16,7 @@ else
   do 
     label=${VFBI[0]}
     ref=${VFBI[1]}
+    echo $ref 1>&3
     if [[ $ref == "VFB_"* ]]
     then
       last=$(echo ${ref} | replace 'VFB_' '' | cut -c 5-)
