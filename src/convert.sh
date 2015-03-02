@@ -5,6 +5,7 @@ source /partition/bocian/VFBTools/python-modules-2.6/bin/activate
 if [ ! -f ./linkData.tsv ]
 then
   echo "linkData.tsv file is missing! See linkData.tsv for an example"
+  echo "No images set to load!" 1>&3
 else
   export dirName='./PutAlignedFilesInHere/'
   export woolzDir='nice /disk/data/VFBTools/Woolz2013Full/bin/'
