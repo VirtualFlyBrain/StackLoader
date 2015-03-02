@@ -54,4 +54,4 @@ else
   echo .
   echo ------------------------------------------------------
 fi
-chmod -R 777 ${imageDir} 2>/dev/null
+chmod -R 777 ${imageDir} 2>/dev/null || :
