@@ -20,6 +20,7 @@ do
   first=$(echo ${VFBI[1]} | replace 'VFB_' '' |  cut -c 1-4) 
   ref=$(echo ${VFBI[1]} | replace 'VFB_' 'VFBi_' ) 
   ln -sf ../data/VFB/i/$first/$last/ ./$ref
+  # Old style refs /owl/VFB_12345678 links: 
   ln -sf ./${ref}/index.html ./${VFBI[1]}
   echo $ref
 done
