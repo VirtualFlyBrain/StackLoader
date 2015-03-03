@@ -4,6 +4,7 @@ echo 'Checking files for...' 1>&3
 echo 'Checking files for...'
 echo reference$'\t'data.jso$'\t'thumbnail.png$'\t'index.html$'\t'volume.nrrd > history/missingFiles.tsv
 echo reference$'\t'data.jso$'\t'thumbnail.png$'\t'index.html$'\t'volume.nrrd > history/fullFilesList.tsv
+head -n 1 history/completeDataSet.tsv > history/missingData.tsv
 for folder in /partition/karenin/VFB/IMAGE_DATA/VFB/i/*/*/
 do 
 ref=$(echo ${folder} | replace '/' '' | replace 'partitionkareninVFBIMAGE_DATAVFBi' 'VFB_')$'\t'
@@ -17,4 +18,7 @@ if [ ! -f ${folder}volume.nrrd ]; then result=$(echo ${result},1); else result=$
 echo ${result} | replace ',' $'\t' >> history/fullFilesList.tsv
 done
 cat history/fullFilesList.tsv | grep $'\t''1' >> history/missingFiles.tsv
-cat history/missingFiles.tsv | grep '1'$'\t' | while IFS=$'\t' read -ra VFBI; do cat completeDataSet.tsv | grep ${VFBI[0]} >> history/missingData.tsv ; done
+cat history/missingFiles.tsv | grep '1'$'\t' | while IFS=$'\t' read -ra VFBI
+do 
+cat history/completeDataSet.tsv | grep ${VFBI[0]} >> history/missingData.tsv
+done
