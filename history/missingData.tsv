@@ -1,602 +1,98 @@
-THMARCM-245M_seg1	VFB_00001330	FlyCircuit
-THMARCM-693M_seg1	VFB_00001723	FlyCircuit
-FruMARCM-M000147_seg002	VFB_00002018	FlyCircuit
-THMARCM-016M_seg1	VFB_00002542	FlyCircuit
-GH146MARCM-M000001_seg001	VFB_00002571	FlyCircuit
-GH146MARCM-M000002_seg001	VFB_00002572	FlyCircuit
-GH146MARCM-M000004_seg001	VFB_00002573	FlyCircuit
-GH146MARCM-M000005_seg001	VFB_00002574	FlyCircuit
-THMARCM-595M_seg1	VFB_00003052	FlyCircuit
-THMARCM-183M_seg2	VFB_00003141	FlyCircuit
-THMARCM-212M_seg1	VFB_00003158	FlyCircuit
-THMARCM-258M_seg1	VFB_00003170	FlyCircuit
-THMARCM-275M_seg1	VFB_00003183	FlyCircuit
-THMARCM-327M_seg1	VFB_00003206	FlyCircuit
-THMARCM-359M_seg1	VFB_00003225	FlyCircuit
-THMARCM-490M_seg1	VFB_00003290	FlyCircuit
-THMARCM-492M_seg1	VFB_00003291	FlyCircuit
-THMARCM-606M_seg	VFB_00003334	FlyCircuit
-TPHMARCM-361M_seg2	VFB_00003488	FlyCircuit
-TPHMARCM-368M_seg2	VFB_00003498	FlyCircuit
-ChaMARCM-F001527_seg001	VFB_00003857	FlyCircuit
-ChaMARCM-F001527_seg002	VFB_00003858	FlyCircuit
-ChaMARCM-F001384_seg001	VFB_00004323	FlyCircuit
-DvGlutMARCM-F1649_seg1	VFB_00005975	FlyCircuit
-DvGlutMARCM-F1657_seg1	VFB_00005976	FlyCircuit
-DvGlutMARCM-F002755_seg001	VFB_00006048	FlyCircuit
-ChaMARCM-F000139_seg002	VFB_00008072	FlyCircuit
-ChaMARCM-F000141_seg002	VFB_00008075	FlyCircuit
-DvGlutMARCM-F003246_seg001	VFB_00009171	FlyCircuit
-DvGlutMARCM-F1705-repeat0904-02_seg2	VFB_00010238	FlyCircuit
-DvGlutMARCM-F1723_seg1	VFB_00010239	FlyCircuit
-THMARCM-423F_seg1	VFB_00010476	FlyCircuit
-DvGlutMARCM-F1641_seg1	VFB_00010739	FlyCircuit
-DvGlutMARCM-F1641_seg2	VFB_00010740	FlyCircuit
-DvGlutMARCM-F1615_seg1	VFB_00010806	FlyCircuit
-DvGlutMARCM-F1618_seg1	VFB_00010808	FlyCircuit
-DvGlutMARCM-F1618_seg2	VFB_00010809	FlyCircuit
-DvGlutMARCM-F1690_seg1	VFB_00010811	FlyCircuit
-DvGlutMARCM-F1694_seg1	VFB_00010812	FlyCircuit
-DvGlutMARCM-F1706_seg1	VFB_00010813	FlyCircuit
-DvGlutMARCM-F1709_seg1	VFB_00010814	FlyCircuit
-GadMARCM-F000222_seg001	VFB_00011240	FlyCircuit
-DvGlutMARCM-F002722_seg001	VFB_00012264	FlyCircuit
-DvGlutMARCM-F1673_seg1	VFB_00012334	FlyCircuit
-DvGlutMARCM-F1673_seg2	VFB_00012335	FlyCircuit
-DvGlutMARCM-F1594_seg1	VFB_00012338	FlyCircuit
-DvGlutMARCM-F1596_seg1	VFB_00012339	FlyCircuit
-DvGlutMARCM-F1608_seg1	VFB_00012340	FlyCircuit
-DvGlutMARCM-F1611_seg1	VFB_00012341	FlyCircuit
-DvGlutMARCM-F1628_seg1	VFB_00012342	FlyCircuit
-DvGlutMARCM-F1631_seg1	VFB_00012343	FlyCircuit
-DvGlutMARCM-F1648_seg1	VFB_00012346	FlyCircuit
-DvGlutMARCM-F1737_seg1	VFB_00012355	FlyCircuit
-DvGlutMARCM-F1737_seg2	VFB_00012356	FlyCircuit
-DvGlutMARCM-F1744_seg1	VFB_00012357	FlyCircuit
-DvGlutMARCM-F1759_seg1	VFB_00012360	FlyCircuit
-DvGlutMARCM-F1759_seg4	VFB_00012361	FlyCircuit
-DvGlutMARCM-F1586_seg1	VFB_00012374	FlyCircuit
-TPHMARCM-1236F_seg1	VFB_00012442	FlyCircuit
-THMARCM-101F_seg1	VFB_00013347	FlyCircuit
-THMARCM-101F_seg2	VFB_00013348	FlyCircuit
-THMARCM-103F_seg1	VFB_00013350	FlyCircuit
-THMARCM-103F_seg2	VFB_00013351	FlyCircuit
-THMARCM-103F_seg3	VFB_00013352	FlyCircuit
-THMARCM-103F_seg4	VFB_00013353	FlyCircuit
-THMARCM-103F_seg5	VFB_00013354	FlyCircuit
-THMARCM-104F_seg1	VFB_00013355	FlyCircuit
-THMARCM-104F_seg2	VFB_00013356	FlyCircuit
-THMARCM-104F_seg3	VFB_00013357	FlyCircuit
-THMARCM-104F_seg4	VFB_00013358	FlyCircuit
-THMARCM-104F_seg5	VFB_00013359	FlyCircuit
-THMARCM-104F_seg6	VFB_00013360	FlyCircuit
-THMARCM-105F_seg1	VFB_00013361	FlyCircuit
-THMARCM-112_seg1	VFB_00013367	FlyCircuit
-THMARCM-136F_seg1	VFB_00013377	FlyCircuit
-THMARCM-149F_seg1	VFB_00013382	FlyCircuit
-THMARCM-149F_seg2	VFB_00013383	FlyCircuit
-THMARCM-151F_seg1	VFB_00013384	FlyCircuit
-THMARCM-441F_seg1	VFB_00013550	FlyCircuit
-THMARCM-441F_seg2	VFB_00013551	FlyCircuit
-THMARCM-501F_seg1	VFB_00013575	FlyCircuit
-TPHMARCM-079F_seg1	VFB_00013839	FlyCircuit
-DvGlutMARCM-F1590_seg1	VFB_00015268	FlyCircuit
-DvGlutMARCM-F1595_seg1	VFB_00015270	FlyCircuit
-DvGlutMARCM-F1604_seg1	VFB_00015277	FlyCircuit
-DvGlutMARCM-F1605_seg1	VFB_00015278	FlyCircuit
-DvGlutMARCM-F1625_seg1	VFB_00015293	FlyCircuit
-DvGlutMARCM-F1626_seg1	VFB_00015294	FlyCircuit
-DvGlutMARCM-F1671_seg1	VFB_00015330	FlyCircuit
-DvGlutMARCM-F1707_seg1	VFB_00015356	FlyCircuit
-DvGlutMARCM-F1725_seg1	VFB_00015372	FlyCircuit
-DvGlutMARCM-F040-X2_seg2	VFB_00015624	FlyCircuit
-DvGlutMARCM-F132_seg1	VFB_00015720	FlyCircuit
-DvGlutMARCM-F179_seg1	VFB_00015773	FlyCircuit
-M_F	VFB_00020145	CacheroOstrovsky2010
-FLa1_01	VFB_00020207	Ito2013
-GMR_91B11_AE_01_02-fA02b	VFB_00022498	FlyLight_Brain
-GMR_76B06_AE_01_00-fA02b	VFB_00023037	FlyLight_Brain
-FBti0143491	VFB_00023727	braintrap
-FBti0143582	VFB_00023728	braintrap
-FBti0144039	VFB_00023729	braintrap
-FBti0143487	VFB_00023730	braintrap
-FBti0143550	VFB_00023731	braintrap
-FBti0143819	VFB_00023732	braintrap
-FBti0143755	VFB_00023733	braintrap
-FBti0143985	VFB_00023734	braintrap
-FBti0143929	VFB_00023735	braintrap
-FBti0143609	VFB_00023736	braintrap
-FBti0143483	VFB_00023737	braintrap
-FBti0143613	VFB_00023738	braintrap
-FBti0143784	VFB_00023739	braintrap
-FBti0143764	VFB_00023740	braintrap
-FBti0144092	VFB_00023741	braintrap
-FBti0144008	VFB_00023742	braintrap
-FBti0143874	VFB_00023743	braintrap
-FBti0143795	VFB_00023744	braintrap
-FBti0143702	VFB_00023745	braintrap
-FBti0143711	VFB_00023746	braintrap
-FBti0143605	VFB_00023747	braintrap
-FBti0143644	VFB_00023748	braintrap
-FBti0143495	VFB_00023749	braintrap
-FBti0143815	VFB_00023750	braintrap
-FBti0143556	VFB_00023751	braintrap
-FBti0143770	VFB_00023752	braintrap
-FBti0143543	VFB_00023753	braintrap
-FBti0143680	VFB_00023754	braintrap
-FBti0144063	VFB_00023755	braintrap
-FBti0143587	VFB_00023756	braintrap
-FBti0143516	VFB_00023757	braintrap
-FBti0143822	VFB_00023758	braintrap
-FBti0143593	VFB_00023759	braintrap
-FBti0143721	VFB_00023760	braintrap
-FBti0143548	VFB_00023761	braintrap
-FBti0143659	VFB_00023762	braintrap
-FBti0143952	VFB_00023763	braintrap
-FBti0143508	VFB_00023764	braintrap
-FBti0143767	VFB_00023765	braintrap
-FBti0144012	VFB_00023766	braintrap
-FBti0143632	VFB_00023767	braintrap
-FBti0143742	VFB_00023768	braintrap
-FBti0143989	VFB_00023769	braintrap
-FBti0143916	VFB_00023770	braintrap
-FBti0143803	VFB_00023771	braintrap
-FBti0143541	VFB_00023772	braintrap
-FBti0143966	VFB_00023773	braintrap
-FBti0143639	VFB_00023774	braintrap
-FBti0143853	VFB_00023775	braintrap
-FBti0143629	VFB_00023776	braintrap
-FBti0143806	VFB_00023777	braintrap
-FBti0143898	VFB_00023778	braintrap
-FBti0143852	VFB_00023779	braintrap
-FBti0144066	VFB_00023780	braintrap
-FBti0144051	VFB_00023781	braintrap
-FBti0143930	VFB_00023782	braintrap
-FBti0143861	VFB_00023783	braintrap
-FBti0143915	VFB_00023784	braintrap
-FBti0143597	VFB_00023785	braintrap
-FBti0143747	VFB_00023786	braintrap
-FBti0143946	VFB_00023787	braintrap
-FBti0143885	VFB_00023788	braintrap
-FBti0143726	VFB_00023789	braintrap
-FBti0143999	VFB_00023790	braintrap
-FBti0143612	VFB_00023791	braintrap
-FBti0143844	VFB_00023792	braintrap
-FBti0143941	VFB_00023793	braintrap
-FBti0144036	VFB_00023794	braintrap
-FBti0144075	VFB_00023795	braintrap
-FBti0144022	VFB_00023796	braintrap
-FBti0143923	VFB_00023797	braintrap
-FBti0143663	VFB_00023798	braintrap
-FBti0144093	VFB_00023799	braintrap
-FBti0143512	VFB_00023800	braintrap
-FBti0144071	VFB_00023801	braintrap
-FBti0143621	VFB_00023802	braintrap
-FBti0143687	VFB_00023803	braintrap
-FBti0143538	VFB_00023804	braintrap
-FBti0143692	VFB_00023805	braintrap
-FBti0143662	VFB_00023806	braintrap
-FBti0143781	VFB_00023807	braintrap
-FBti0143961	VFB_00023808	braintrap
-FBti0143959	VFB_00023809	braintrap
-FBti0144004	VFB_00023810	braintrap
-FBti0143525	VFB_00023811	braintrap
-FBti0143523	VFB_00023812	braintrap
-FBti0143877	VFB_00023813	braintrap
-FBti0144016	VFB_00023814	braintrap
-FBti0144026	VFB_00023815	braintrap
-FBti0143631	VFB_00023816	braintrap
-FBti0143863	VFB_00023817	braintrap
-FBti0143830	VFB_00023818	braintrap
-FBti0143816	VFB_00023819	braintrap
-FBti0144070	VFB_00023820	braintrap
-FBti0143829	VFB_00023821	braintrap
-FBti0144011	VFB_00023822	braintrap
-FBti0143604	VFB_00023823	braintrap
-FBti0143955	VFB_00023824	braintrap
-FBti0143793	VFB_00023825	braintrap
-FBti0143934	VFB_00023826	braintrap
-FBti0143752	VFB_00023827	braintrap
-FBti0143912	VFB_00023828	braintrap
-FBti0143519	VFB_00023829	braintrap
-FBti0144030	VFB_00023830	braintrap
-FBti0144085	VFB_00023831	braintrap
-FBti0143826	VFB_00023832	braintrap
-FBti0144060	VFB_00023833	braintrap
-FBti0144020	VFB_00023834	braintrap
-FBti0143902	VFB_00023835	braintrap
-FBti0143788	VFB_00023836	braintrap
-FBti0143547	VFB_00023837	braintrap
-FBti0143573	VFB_00023838	braintrap
-FBti0143979	VFB_00023839	braintrap
-FBti0143965	VFB_00023840	braintrap
-FBti0143775	VFB_00023841	braintrap
-FBti0143706	VFB_00023842	braintrap
-FBti0143648	VFB_00023843	braintrap
-FBti0143994	VFB_00023844	braintrap
-FBti0143825	VFB_00023845	braintrap
-FBti0143633	VFB_00023846	braintrap
-FBti0143841	VFB_00023847	braintrap
-FBti0143716	VFB_00023848	braintrap
-FBti0143741	VFB_00023849	braintrap
-FBti0143971	VFB_00023850	braintrap
-FBti0143956	VFB_00023851	braintrap
-FBti0143614	VFB_00023852	braintrap
-FBti0143534	VFB_00023853	braintrap
-FBti0143504	VFB_00023854	braintrap
-FBti0143554	VFB_00023855	braintrap
-FBti0144056	VFB_00023856	braintrap
-FBti0143942	VFB_00023857	braintrap
-FBti0143624	VFB_00023858	braintrap
-FBti0143552	VFB_00023859	braintrap
-FBti0143678	VFB_00023860	braintrap
-FBti0143509	VFB_00023861	braintrap
-FBti0143722	VFB_00023862	braintrap
-FBti0143497	VFB_00023863	braintrap
-FBti0143963	VFB_00023864	braintrap
-FBti0143871	VFB_00023865	braintrap
-FBti0143669	VFB_00023866	braintrap
-FBti0143802	VFB_00023867	braintrap
-FBti0143875	VFB_00023868	braintrap
-FBti0143500	VFB_00023869	braintrap
-FBti0144048	VFB_00023870	braintrap
-FBti0143718	VFB_00023871	braintrap
-FBti0143972	VFB_00023872	braintrap
-FBti0143492	VFB_00023873	braintrap
-FBti0143704	VFB_00023874	braintrap
-FBti0143533	VFB_00023875	braintrap
-FBti0143531	VFB_00023876	braintrap
-FBti0143703	VFB_00023877	braintrap
-FBti0143671	VFB_00023878	braintrap
-FBti0143566	VFB_00023879	braintrap
-FBti0143869	VFB_00023880	braintrap
-FBti0144034	VFB_00023881	braintrap
-FBti0143524	VFB_00023882	braintrap
-FBti0143862	VFB_00023883	braintrap
-FBti0143848	VFB_00023884	braintrap
-FBti0144007	VFB_00023885	braintrap
-FBti0143962	VFB_00023886	braintrap
-FBti0143520	VFB_00023887	braintrap
-FBti0144059	VFB_00023888	braintrap
-FBti0143586	VFB_00023889	braintrap
-FBti0143776	VFB_00023890	braintrap
-FBti0143527	VFB_00023891	braintrap
-FBti0143727	VFB_00023892	braintrap
-FBti0143571	VFB_00023893	braintrap
-FBti0143931	VFB_00023894	braintrap
-FBti0143765	VFB_00023895	braintrap
-FBti0143900	VFB_00023896	braintrap
-FBti0144081	VFB_00023897	braintrap
-FBti0143490	VFB_00023898	braintrap
-FBti0143926	VFB_00023899	braintrap
-FBti0143893	VFB_00023900	braintrap
-FBti0143590	VFB_00023901	braintrap
-FBti0143865	VFB_00023902	braintrap
-FBti0143743	VFB_00023903	braintrap
-FBti0143851	VFB_00023904	braintrap
-FBti0143982	VFB_00023905	braintrap
-FBti0143641	VFB_00023906	braintrap
-FBti0143890	VFB_00023907	braintrap
-FBti0144035	VFB_00023908	braintrap
-FBti0143753	VFB_00023909	braintrap
-FBti0143511	VFB_00023910	braintrap
-FBti0143917	VFB_00023911	braintrap
-FBti0143981	VFB_00023912	braintrap
-FBti0143949	VFB_00023913	braintrap
-FBti0143996	VFB_00023914	braintrap
-FBti0143720	VFB_00023915	braintrap
-FBti0143675	VFB_00023916	braintrap
-FBti0143754	VFB_00023917	braintrap
-FBti0143665	VFB_00023918	braintrap
-FBti0143891	VFB_00023919	braintrap
-FBti0143758	VFB_00023920	braintrap
-FBti0143897	VFB_00023921	braintrap
-FBti0143746	VFB_00023922	braintrap
-FBti0143577	VFB_00023923	braintrap
-FBti0144019	VFB_00023924	braintrap
-FBti0143750	VFB_00023925	braintrap
-FBti0143647	VFB_00023926	braintrap
-FBti0143817	VFB_00023927	braintrap
-FBti0144087	VFB_00023928	braintrap
-FBti0143903	VFB_00023929	braintrap
-FBti0143695	VFB_00023930	braintrap
-FBti0143839	VFB_00023931	braintrap
-FBti0143884	VFB_00023932	braintrap
-FBti0143881	VFB_00023933	braintrap
-FBti0143494	VFB_00023934	braintrap
-FBti0143990	VFB_00023935	braintrap
-FBti0143617	VFB_00023936	braintrap
-FBti0143544	VFB_00023937	braintrap
-FBti0144040	VFB_00023938	braintrap
-FBti0144052	VFB_00023939	braintrap
-FBti0143986	VFB_00023940	braintrap
-FBti0143574	VFB_00023941	braintrap
-FBti0144094	VFB_00023942	braintrap
-FBti0144065	VFB_00023943	braintrap
-FBti0144025	VFB_00023944	braintrap
-FBti0144010	VFB_00023945	braintrap
-FBti0143670	VFB_00023946	braintrap
-FBti0143489	VFB_00023947	braintrap
-FBti0144045	VFB_00023948	braintrap
-FBti0144021	VFB_00023949	braintrap
-FBti0143694	VFB_00023950	braintrap
-FBti0143661	VFB_00023951	braintrap
-FBti0143532	VFB_00023952	braintrap
-FBti0143628	VFB_00023953	braintrap
-FBti0144055	VFB_00023954	braintrap
-FBti0143732	VFB_00023955	braintrap
-FBti0143834	VFB_00023956	braintrap
-FBti0143957	VFB_00023957	braintrap
-FBti0143681	VFB_00023958	braintrap
-FBti0143913	VFB_00023959	braintrap
-FBti0143622	VFB_00023960	braintrap
-FBti0143896	VFB_00023961	braintrap
-FBti0143780	VFB_00023962	braintrap
-FBti0143995	VFB_00023963	braintrap
-FBti0143843	VFB_00023964	braintrap
-FBti0144086	VFB_00023965	braintrap
-FBti0143787	VFB_00023966	braintrap
-FBti0143664	VFB_00023967	braintrap
-FBti0143603	VFB_00023968	braintrap
-FBti0143485	VFB_00023969	braintrap
-FBti0143789	VFB_00023970	braintrap
-FBti0143557	VFB_00023971	braintrap
-FBti0143976	VFB_00023972	braintrap
-FBti0143503	VFB_00023973	braintrap
-FBti0143969	VFB_00023974	braintrap
-FBti0143686	VFB_00023975	braintrap
-FBti0144005	VFB_00023976	braintrap
-FBti0143935	VFB_00023977	braintrap
-FBti0143537	VFB_00023978	braintrap
-FBti0143528	VFB_00023979	braintrap
-FBti0143864	VFB_00023980	braintrap
-FBti0143655	VFB_00023981	braintrap
-FBti0143907	VFB_00023982	braintrap
-FBti0143927	VFB_00023983	braintrap
-FBti0143691	VFB_00023984	braintrap
-FBti0143857	VFB_00023985	braintrap
-FBti0143790	VFB_00023986	braintrap
-FBti0143828	VFB_00023987	braintrap
-FBti0143498	VFB_00023988	braintrap
-FBti0143970	VFB_00023989	braintrap
-FBti0143565	VFB_00023990	braintrap
-FBti0143610	VFB_00023991	braintrap
-FBti0144062	VFB_00023992	braintrap
-FBti0144078	VFB_00023993	braintrap
-FBti0143836	VFB_00023994	braintrap
-FBti0143630	VFB_00023995	braintrap
-FBti0143977	VFB_00023996	braintrap
-FBti0143506	VFB_00023997	braintrap
-FBti0144069	VFB_00023998	braintrap
-FBti0143922	VFB_00023999	braintrap
-FBti0144064	VFB_00024000	braintrap
-FBti0143821	VFB_00024001	braintrap
-FBti0143798	VFB_00024002	braintrap
-FBti0143849	VFB_00024003	braintrap
-FBti0143918	VFB_00024004	braintrap
-FBti0143736	VFB_00024005	braintrap
-FBti0143964	VFB_00024006	braintrap
-FBti0143872	VFB_00024007	braintrap
-FBti0143521	VFB_00024008	braintrap
-FBti0143584	VFB_00024009	braintrap
-FBti0144002	VFB_00024010	braintrap
-FBti0143642	VFB_00024011	braintrap
-FBti0143539	VFB_00024012	braintrap
-FBti0143974	VFB_00024013	braintrap
-FBti0144047	VFB_00024014	braintrap
-FBti0143730	VFB_00024015	braintrap
-FBti0144029	VFB_00024016	braintrap
-FBti0143757	VFB_00024017	braintrap
-FBti0143831	VFB_00024018	braintrap
-FBti0143514	VFB_00024019	braintrap
-FBti0144090	VFB_00024020	braintrap
-FBti0144054	VFB_00024021	braintrap
-FBti0143518	VFB_00024022	braintrap
-FBti0143983	VFB_00024023	braintrap
-FBti0143876	VFB_00024024	braintrap
-FBti0143921	VFB_00024025	braintrap
-FBti0143812	VFB_00024026	braintrap
-FBti0144006	VFB_00024027	braintrap
-FBti0144058	VFB_00024028	braintrap
-FBti0143808	VFB_00024029	braintrap
-FBti0143558	VFB_00024030	braintrap
-FBti0143892	VFB_00024031	braintrap
-FBti0144042	VFB_00024032	braintrap
-FBti0143591	VFB_00024033	braintrap
-FBti0143413	VFB_00024034	braintrap
-FBti0143689	VFB_00024035	braintrap
-FBti0144080	VFB_00024036	braintrap
-FBti0143654	VFB_00024037	braintrap
-FBti0143932	VFB_00024038	braintrap
-FBti0143739	VFB_00024039	braintrap
-FBti0143513	VFB_00024040	braintrap
-FBti0143615	VFB_00024041	braintrap
-FBti0143901	VFB_00024042	braintrap
-FBti0143791	VFB_00024043	braintrap
-FBti0143735	VFB_00024044	braintrap
-FBti0144088	VFB_00024045	braintrap
-FBti0144044	VFB_00024046	braintrap
-FBti0143578	VFB_00024047	braintrap
-FBti0144032	VFB_00024048	braintrap
-FBti0143953	VFB_00024049	braintrap
-FBti0143858	VFB_00024050	braintrap
-FBti0143968	VFB_00024051	braintrap
-FBti0143958	VFB_00024052	braintrap
-FBti0143674	VFB_00024053	braintrap
-FBti0143786	VFB_00024054	braintrap
-FBti0143493	VFB_00024055	braintrap
-FBti0143748	VFB_00024056	braintrap
-FBti0143854	VFB_00024057	braintrap
-FBti0143908	VFB_00024058	braintrap
-FBti0143536	VFB_00024059	braintrap
-FBti0143649	VFB_00024060	braintrap
-FBti0143560	VFB_00024061	braintrap
-FBti0144068	VFB_00024062	braintrap
-FBti0144017	VFB_00024063	braintrap
-FBti0143879	VFB_00024064	braintrap
-FBti0143807	VFB_00024065	braintrap
-FBti0143698	VFB_00024066	braintrap
-FBti0144074	VFB_00024067	braintrap
-FBti0144001	VFB_00024068	braintrap
-FBti0143987	VFB_00024069	braintrap
-FBti0143728	VFB_00024070	braintrap
-FBti0143685	VFB_00024071	braintrap
-FBti0144095	VFB_00024072	braintrap
-FBti0143738	VFB_00024073	braintrap
-FBti0143763	VFB_00024074	braintrap
-FBti0143945	VFB_00024075	braintrap
-FBti0143549	VFB_00024076	braintrap
-FBti0143510	VFB_00024077	braintrap
-FBti0143607	VFB_00024078	braintrap
-FBti0143650	VFB_00024079	braintrap
-FBti0144057	VFB_00024080	braintrap
-FBti0143668	VFB_00024081	braintrap
-FBti0143855	VFB_00024082	braintrap
-FBti0143905	VFB_00024083	braintrap
-FBti0144014	VFB_00024084	braintrap
-FBti0143880	VFB_00024085	braintrap
-FBti0143951	VFB_00024086	braintrap
-FBti0143928	VFB_00024087	braintrap
-FBti0143677	VFB_00024088	braintrap
-FBti0143545	VFB_00024089	braintrap
-FBti0143756	VFB_00024090	braintrap
-FBti0143580	VFB_00024091	braintrap
-FBti0143599	VFB_00024092	braintrap
-FBti0144038	VFB_00024093	braintrap
-FBti0143643	VFB_00024094	braintrap
-FBti0144018	VFB_00024095	braintrap
-FBti0143769	VFB_00024096	braintrap
-FBti0143833	VFB_00024097	braintrap
-FBti0143850	VFB_00024098	braintrap
-FBti0143873	VFB_00024099	braintrap
-FBti0144083	VFB_00024100	braintrap
-FBti0143925	VFB_00024101	braintrap
-FBti0143745	VFB_00024102	braintrap
-FBti0143618	VFB_00024103	braintrap
-FBti0143502	VFB_00024104	braintrap
-FBti0143811	VFB_00024105	braintrap
-FBti0143488	VFB_00024106	braintrap
-FBti0143782	VFB_00024107	braintrap
-FBti0143529	VFB_00024108	braintrap
-FBti0143496	VFB_00024109	braintrap
-FBti0143856	VFB_00024110	braintrap
-FBti0143914	VFB_00024111	braintrap
-FBti0143542	VFB_00024112	braintrap
-FBti0143517	VFB_00024113	braintrap
-FBti0144084	VFB_00024114	braintrap
-FBti0143886	VFB_00024115	braintrap
-FBti0143708	VFB_00024116	braintrap
-FBti0143823	VFB_00024117	braintrap
-FBti0143616	VFB_00024118	braintrap
-FBti0143804	VFB_00024119	braintrap
-FBti0143656	VFB_00024120	braintrap
-FBti0143653	VFB_00024121	braintrap
-FBti0143733	VFB_00024122	braintrap
-FBti0143766	VFB_00024123	braintrap
-FBti0144073	VFB_00024124	braintrap
-FBti0144009	VFB_00024125	braintrap
-FBti0143699	VFB_00024126	braintrap
-FBti0143832	VFB_00024127	braintrap
-FBti0143906	VFB_00024128	braintrap
-FBti0143734	VFB_00024129	braintrap
-FBti0143596	VFB_00024130	braintrap
-FBti0144096	VFB_00024131	braintrap
-FBti0143645	VFB_00024132	braintrap
-FBti0143627	VFB_00024133	braintrap
-FBti0143551	VFB_00024134	braintrap
-FBti0143980	VFB_00024135	braintrap
-FBti0143967	VFB_00024136	braintrap
-FBti0143867	VFB_00024137	braintrap
-FBti0143883	VFB_00024138	braintrap
-FBti0143814	VFB_00024139	braintrap
-FBti0143737	VFB_00024140	braintrap
-FBti0144082	VFB_00024141	braintrap
-FBti0144061	VFB_00024142	braintrap
-FBti0143991	VFB_00024143	braintrap
-FBti0143569	VFB_00024144	braintrap
-FBti0143944	VFB_00024145	braintrap
-FBti0143575	VFB_00024146	braintrap
-FBti0143779	VFB_00024147	braintrap
-FBti0143813	VFB_00024148	braintrap
-FBti0143507	VFB_00024149	braintrap
-FBti0144091	VFB_00024150	braintrap
-FBti0143975	VFB_00024151	braintrap
-FBti0144024	VFB_00024152	braintrap
-FBti0143792	VFB_00024153	braintrap
-FBti0143676	VFB_00024154	braintrap
-FBti0143998	VFB_00024155	braintrap
-FBti0144043	VFB_00024156	braintrap
-FBti0143658	VFB_00024157	braintrap
-FBti0143592	VFB_00024158	braintrap
-FBti0143725	VFB_00024159	braintrap
-FBti0143904	VFB_00024160	braintrap
-FBti0143749	VFB_00024161	braintrap
-FBti0143572	VFB_00024162	braintrap
-FBti0143540	VFB_00024163	braintrap
-FBti0144027	VFB_00024164	braintrap
-FBti0143535	VFB_00024165	braintrap
-FBti0143608	VFB_00024166	braintrap
-FBti0143751	VFB_00024167	braintrap
-FBti0143954	VFB_00024168	braintrap
-FBti0143774	VFB_00024169	braintrap
-FBti0144089	VFB_00024170	braintrap
-FBti0143555	VFB_00024171	braintrap
-FBti0143576	VFB_00024172	braintrap
-FBti0143657	VFB_00024173	braintrap
-FBti0144076	VFB_00024174	braintrap
-FBti0144050	VFB_00024175	braintrap
-FBti0144023	VFB_00024176	braintrap
-FBti0144000	VFB_00024177	braintrap
-FBti0143936	VFB_00024178	braintrap
-FBti0143840	VFB_00024179	braintrap
-FBti0144013	VFB_00024180	braintrap
-FBti0143697	VFB_00024181	braintrap
-FBti0144053	VFB_00024182	braintrap
-FBti0143559	VFB_00024183	braintrap
-FBti0143847	VFB_00024184	braintrap
-FBti0144079	VFB_00024185	braintrap
-FBti0143759	VFB_00024186	braintrap
-FBti0143666	VFB_00024187	braintrap
-FBti0144046	VFB_00024188	braintrap
-FBti0144037	VFB_00024189	braintrap
-FBti0143637	VFB_00024190	braintrap
-FBti0144033	VFB_00024191	braintrap
-FBti0143911	VFB_00024192	braintrap
-FBti0144031	VFB_00024193	braintrap
-FBti0143820	VFB_00024194	braintrap
-FBti0143837	VFB_00024195	braintrap
-FBti0143948	VFB_00024196	braintrap
-FBti0143579	VFB_00024197	braintrap
-FBti0143505	VFB_00024198	braintrap
-FBti0143619	VFB_00024199	braintrap
-FBti0143960	VFB_00024200	braintrap
-FBti0143515	VFB_00024201	braintrap
-FBti0143860	VFB_00024202	braintrap
-FBti0143870	VFB_00024203	braintrap
-FBti0143499	VFB_00024204	braintrap
-FBti0144003	VFB_00024205	braintrap
-FBti0144077	VFB_00024206	braintrap
-FBti0143667	VFB_00024207	braintrap
-FBti0143705	VFB_00024208	braintrap
-FBti0143688	VFB_00024209	braintrap
-FBti0145066	VFB_00024210	braintrap
-FBti0144072	VFB_00024211	braintrap
-FBti0143978	VFB_00024212	braintrap
-FBti0143919	VFB_00024213	braintrap
-FBti0143993	VFB_00024214	braintrap
-FBti0144067	VFB_00024215	braintrap
-FBti0143943	VFB_00024216	braintrap
-FBti0143673	VFB_00024217	braintrap
-FBti0144028	VFB_00024218	braintrap
-FBti0143924	VFB_00024219	braintrap
-FBti0143530	VFB_00024220	braintrap
-FBti0143984	VFB_00024221	braintrap
-FBti0143693	VFB_00024222	braintrap
-FBti0143723	VFB_00024223	braintrap
-FBti0143595	VFB_00024224	braintrap
-FBti0143526	VFB_00024225	braintrap
-FBti0143950	VFB_00024226	braintrap
-FBti0143546	VFB_00024227	braintrap
-FBti0144097	VFB_00024228	braintrap
-FBti0143866	VFB_00024229	braintrap
-FBti0143878	VFB_00024230	braintrap
+label	vfbid	sourcename	sourceuri
+THMARCM-245M_seg1	VFB_00001330	FlyCircuit	http://flycircuit.tw/modules.php?name=clearpage&op=detail_table&idid=1330
+THMARCM-693M_seg1	VFB_00001723	FlyCircuit	http://flycircuit.tw/modules.php?name=clearpage&op=detail_table&idid=1723
+FruMARCM-M000147_seg002	VFB_00002018	FlyCircuit	http://flycircuit.tw/modules.php?name=clearpage&op=detail_table&idid=2018
+THMARCM-016M_seg1	VFB_00002542	FlyCircuit	http://flycircuit.tw/modules.php?name=clearpage&op=detail_table&idid=2542
+GH146MARCM-M000001_seg001	VFB_00002571	FlyCircuit	http://flycircuit.tw/modules.php?name=clearpage&op=detail_table&idid=2571
+GH146MARCM-M000002_seg001	VFB_00002572	FlyCircuit	http://flycircuit.tw/modules.php?name=clearpage&op=detail_table&idid=2572
+GH146MARCM-M000004_seg001	VFB_00002573	FlyCircuit	http://flycircuit.tw/modules.php?name=clearpage&op=detail_table&idid=2573
+GH146MARCM-M000005_seg001	VFB_00002574	FlyCircuit	http://flycircuit.tw/modules.php?name=clearpage&op=detail_table&idid=2574
+THMARCM-595M_seg1	VFB_00003052	FlyCircuit	http://flycircuit.tw/modules.php?name=clearpage&op=detail_table&idid=3052
+THMARCM-183M_seg2	VFB_00003141	FlyCircuit	http://flycircuit.tw/modules.php?name=clearpage&op=detail_table&idid=3141
+THMARCM-212M_seg1	VFB_00003158	FlyCircuit	http://flycircuit.tw/modules.php?name=clearpage&op=detail_table&idid=3158
+THMARCM-258M_seg1	VFB_00003170	FlyCircuit	http://flycircuit.tw/modules.php?name=clearpage&op=detail_table&idid=3170
+THMARCM-275M_seg1	VFB_00003183	FlyCircuit	http://flycircuit.tw/modules.php?name=clearpage&op=detail_table&idid=3183
+THMARCM-327M_seg1	VFB_00003206	FlyCircuit	http://flycircuit.tw/modules.php?name=clearpage&op=detail_table&idid=3206
+THMARCM-359M_seg1	VFB_00003225	FlyCircuit	http://flycircuit.tw/modules.php?name=clearpage&op=detail_table&idid=3225
+THMARCM-490M_seg1	VFB_00003290	FlyCircuit	http://flycircuit.tw/modules.php?name=clearpage&op=detail_table&idid=3290
+THMARCM-492M_seg1	VFB_00003291	FlyCircuit	http://flycircuit.tw/modules.php?name=clearpage&op=detail_table&idid=3291
+THMARCM-606M_se	VFB_00003334	FlyCircuit	http://flycircuit.tw/modules.php?name=clearpage&op=detail_table&idid=3334
+TPHMARCM-361M_seg2	VFB_00003488	FlyCircuit	http://flycircuit.tw/modules.php?name=clearpage&op=detail_table&idid=3488
+TPHMARCM-368M_seg2	VFB_00003498	FlyCircuit	http://flycircuit.tw/modules.php?name=clearpage&op=detail_table&idid=3498
+ChaMARCM-F001527_seg001	VFB_00003857	FlyCircuit	http://flycircuit.tw/modules.php?name=clearpage&op=detail_table&idid=3857
+ChaMARCM-F001527_seg002	VFB_00003858	FlyCircuit	http://flycircuit.tw/modules.php?name=clearpage&op=detail_table&idid=3858
+ChaMARCM-F001384_seg001	VFB_00004323	FlyCircuit	http://flycircuit.tw/modules.php?name=clearpage&op=detail_table&idid=4323
+DvGlutMARCM-F1649_seg1	VFB_00005975	FlyCircuit	http://flycircuit.tw/modules.php?name=clearpage&op=detail_table&idid=5975
+DvGlutMARCM-F1657_seg1	VFB_00005976	FlyCircuit	http://flycircuit.tw/modules.php?name=clearpage&op=detail_table&idid=5976
+DvGlutMARCM-F002755_seg001	VFB_00006048	FlyCircuit	http://flycircuit.tw/modules.php?name=clearpage&op=detail_table&idid=6048
+ChaMARCM-F000139_seg002	VFB_00008072	FlyCircuit	http://flycircuit.tw/modules.php?name=clearpage&op=detail_table&idid=8072
+ChaMARCM-F000141_seg002	VFB_00008075	FlyCircuit	http://flycircuit.tw/modules.php?name=clearpage&op=detail_table&idid=8075
+DvGlutMARCM-F003246_seg001	VFB_00009171	FlyCircuit	http://flycircuit.tw/modules.php?name=clearpage&op=detail_table&idid=9171
+DvGlutMARCM-F1705-repeat0904-02_seg2	VFB_00010238	FlyCircuit	http://flycircuit.tw/modules.php?name=clearpage&op=detail_table&idid=10238
+DvGlutMARCM-F1723_seg1	VFB_00010239	FlyCircuit	http://flycircuit.tw/modules.php?name=clearpage&op=detail_table&idid=10239
+THMARCM-423F_seg1	VFB_00010476	FlyCircuit	http://flycircuit.tw/modules.php?name=clearpage&op=detail_table&idid=10476
+DvGlutMARCM-F1641_seg1	VFB_00010739	FlyCircuit	http://flycircuit.tw/modules.php?name=clearpage&op=detail_table&idid=10739
+DvGlutMARCM-F1641_seg2	VFB_00010740	FlyCircuit	http://flycircuit.tw/modules.php?name=clearpage&op=detail_table&idid=10740
+DvGlutMARCM-F1615_seg1	VFB_00010806	FlyCircuit	http://flycircuit.tw/modules.php?name=clearpage&op=detail_table&idid=10806
+DvGlutMARCM-F1618_seg1	VFB_00010808	FlyCircuit	http://flycircuit.tw/modules.php?name=clearpage&op=detail_table&idid=10808
+DvGlutMARCM-F1618_seg2	VFB_00010809	FlyCircuit	http://flycircuit.tw/modules.php?name=clearpage&op=detail_table&idid=10809
+DvGlutMARCM-F1690_seg1	VFB_00010811	FlyCircuit	http://flycircuit.tw/modules.php?name=clearpage&op=detail_table&idid=10811
+DvGlutMARCM-F1694_seg1	VFB_00010812	FlyCircuit	http://flycircuit.tw/modules.php?name=clearpage&op=detail_table&idid=10812
+DvGlutMARCM-F1706_seg1	VFB_00010813	FlyCircuit	http://flycircuit.tw/modules.php?name=clearpage&op=detail_table&idid=10813
+DvGlutMARCM-F1709_seg1	VFB_00010814	FlyCircuit	http://flycircuit.tw/modules.php?name=clearpage&op=detail_table&idid=10814
+GadMARCM-F000222_seg001	VFB_00011240	FlyCircuit	http://flycircuit.tw/modules.php?name=clearpage&op=detail_table&idid=11240
+DvGlutMARCM-F002722_seg001	VFB_00012264	FlyCircuit	http://flycircuit.tw/modules.php?name=clearpage&op=detail_table&idid=12264
+DvGlutMARCM-F1673_seg1	VFB_00012334	FlyCircuit	http://flycircuit.tw/modules.php?name=clearpage&op=detail_table&idid=12334
+DvGlutMARCM-F1673_seg2	VFB_00012335	FlyCircuit	http://flycircuit.tw/modules.php?name=clearpage&op=detail_table&idid=12335
+DvGlutMARCM-F1594_seg1	VFB_00012338	FlyCircuit	http://flycircuit.tw/modules.php?name=clearpage&op=detail_table&idid=12338
+DvGlutMARCM-F1596_seg1	VFB_00012339	FlyCircuit	http://flycircuit.tw/modules.php?name=clearpage&op=detail_table&idid=12339
+DvGlutMARCM-F1608_seg1	VFB_00012340	FlyCircuit	http://flycircuit.tw/modules.php?name=clearpage&op=detail_table&idid=12340
+DvGlutMARCM-F1611_seg1	VFB_00012341	FlyCircuit	http://flycircuit.tw/modules.php?name=clearpage&op=detail_table&idid=12341
+DvGlutMARCM-F1628_seg1	VFB_00012342	FlyCircuit	http://flycircuit.tw/modules.php?name=clearpage&op=detail_table&idid=12342
+DvGlutMARCM-F1631_seg1	VFB_00012343	FlyCircuit	http://flycircuit.tw/modules.php?name=clearpage&op=detail_table&idid=12343
+DvGlutMARCM-F1648_seg1	VFB_00012346	FlyCircuit	http://flycircuit.tw/modules.php?name=clearpage&op=detail_table&idid=12346
+DvGlutMARCM-F1737_seg1	VFB_00012355	FlyCircuit	http://flycircuit.tw/modules.php?name=clearpage&op=detail_table&idid=12355
+DvGlutMARCM-F1737_seg2	VFB_00012356	FlyCircuit	http://flycircuit.tw/modules.php?name=clearpage&op=detail_table&idid=12356
+DvGlutMARCM-F1744_seg1	VFB_00012357	FlyCircuit	http://flycircuit.tw/modules.php?name=clearpage&op=detail_table&idid=12357
+DvGlutMARCM-F1759_seg1	VFB_00012360	FlyCircuit	http://flycircuit.tw/modules.php?name=clearpage&op=detail_table&idid=12360
+DvGlutMARCM-F1759_seg4	VFB_00012361	FlyCircuit	http://flycircuit.tw/modules.php?name=clearpage&op=detail_table&idid=12361
+DvGlutMARCM-F1586_seg1	VFB_00012374	FlyCircuit	http://flycircuit.tw/modules.php?name=clearpage&op=detail_table&idid=12374
+TPHMARCM-1236F_seg1	VFB_00012442	FlyCircuit	http://flycircuit.tw/modules.php?name=clearpage&op=detail_table&idid=12442
+THMARCM-101F_seg1	VFB_00013347	FlyCircuit	http://flycircuit.tw/modules.php?name=clearpage&op=detail_table&idid=13347
+THMARCM-101F_seg2	VFB_00013348	FlyCircuit	http://flycircuit.tw/modules.php?name=clearpage&op=detail_table&idid=13348
+THMARCM-103F_seg1	VFB_00013350	FlyCircuit	http://flycircuit.tw/modules.php?name=clearpage&op=detail_table&idid=13350
+THMARCM-103F_seg2	VFB_00013351	FlyCircuit	http://flycircuit.tw/modules.php?name=clearpage&op=detail_table&idid=13351
+THMARCM-103F_seg3	VFB_00013352	FlyCircuit	http://flycircuit.tw/modules.php?name=clearpage&op=detail_table&idid=13352
+THMARCM-103F_seg4	VFB_00013353	FlyCircuit	http://flycircuit.tw/modules.php?name=clearpage&op=detail_table&idid=13353
+THMARCM-103F_seg5	VFB_00013354	FlyCircuit	http://flycircuit.tw/modules.php?name=clearpage&op=detail_table&idid=13354
+THMARCM-104F_seg1	VFB_00013355	FlyCircuit	http://flycircuit.tw/modules.php?name=clearpage&op=detail_table&idid=13355
+THMARCM-104F_seg2	VFB_00013356	FlyCircuit	http://flycircuit.tw/modules.php?name=clearpage&op=detail_table&idid=13356
+THMARCM-104F_seg3	VFB_00013357	FlyCircuit	http://flycircuit.tw/modules.php?name=clearpage&op=detail_table&idid=13357
+THMARCM-104F_seg4	VFB_00013358	FlyCircuit	http://flycircuit.tw/modules.php?name=clearpage&op=detail_table&idid=13358
+THMARCM-104F_seg5	VFB_00013359	FlyCircuit	http://flycircuit.tw/modules.php?name=clearpage&op=detail_table&idid=13359
+THMARCM-104F_seg6	VFB_00013360	FlyCircuit	http://flycircuit.tw/modules.php?name=clearpage&op=detail_table&idid=13360
+THMARCM-105F_seg1	VFB_00013361	FlyCircuit	http://flycircuit.tw/modules.php?name=clearpage&op=detail_table&idid=13361
+THMARCM-112_seg1	VFB_00013367	FlyCircuit	http://flycircuit.tw/modules.php?name=clearpage&op=detail_table&idid=13367
+THMARCM-136F_seg1	VFB_00013377	FlyCircuit	http://flycircuit.tw/modules.php?name=clearpage&op=detail_table&idid=13377
+THMARCM-149F_seg1	VFB_00013382	FlyCircuit	http://flycircuit.tw/modules.php?name=clearpage&op=detail_table&idid=13382
+THMARCM-149F_seg2	VFB_00013383	FlyCircuit	http://flycircuit.tw/modules.php?name=clearpage&op=detail_table&idid=13383
+THMARCM-151F_seg1	VFB_00013384	FlyCircuit	http://flycircuit.tw/modules.php?name=clearpage&op=detail_table&idid=13384
+THMARCM-441F_seg1	VFB_00013550	FlyCircuit	http://flycircuit.tw/modules.php?name=clearpage&op=detail_table&idid=13550
+THMARCM-441F_seg2	VFB_00013551	FlyCircuit	http://flycircuit.tw/modules.php?name=clearpage&op=detail_table&idid=13551
+THMARCM-501F_seg1	VFB_00013575	FlyCircuit	http://flycircuit.tw/modules.php?name=clearpage&op=detail_table&idid=13575
+TPHMARCM-079F_seg1	VFB_00013839	FlyCircuit	http://flycircuit.tw/modules.php?name=clearpage&op=detail_table&idid=13839
+DvGlutMARCM-F1590_seg1	VFB_00015268	FlyCircuit	http://flycircuit.tw/modules.php?name=clearpage&op=detail_table&idid=15268
+DvGlutMARCM-F1595_seg1	VFB_00015270	FlyCircuit	http://flycircuit.tw/modules.php?name=clearpage&op=detail_table&idid=15270
+DvGlutMARCM-F1604_seg1	VFB_00015277	FlyCircuit	http://flycircuit.tw/modules.php?name=clearpage&op=detail_table&idid=15277
+DvGlutMARCM-F1605_seg1	VFB_00015278	FlyCircuit	http://flycircuit.tw/modules.php?name=clearpage&op=detail_table&idid=15278
+DvGlutMARCM-F1625_seg1	VFB_00015293	FlyCircuit	http://flycircuit.tw/modules.php?name=clearpage&op=detail_table&idid=15293
+DvGlutMARCM-F1626_seg1	VFB_00015294	FlyCircuit	http://flycircuit.tw/modules.php?name=clearpage&op=detail_table&idid=15294
+DvGlutMARCM-F1671_seg1	VFB_00015330	FlyCircuit	http://flycircuit.tw/modules.php?name=clearpage&op=detail_table&idid=15330
+DvGlutMARCM-F1707_seg1	VFB_00015356	FlyCircuit	http://flycircuit.tw/modules.php?name=clearpage&op=detail_table&idid=15356
+DvGlutMARCM-F1725_seg1	VFB_00015372	FlyCircuit	http://flycircuit.tw/modules.php?name=clearpage&op=detail_table&idid=15372
+DvGlutMARCM-F040-X2_seg2	VFB_00015624	FlyCircuit	http://flycircuit.tw/modules.php?name=clearpage&op=detail_table&idid=15624
+DvGlutMARCM-F132_seg1	VFB_00015720	FlyCircuit	http://flycircuit.tw/modules.php?name=clearpage&op=detail_table&idid=15720
+DvGlutMARCM-F179_seg1	VFB_00015773	FlyCircuit	http://flycircuit.tw/modules.php?name=clearpage&op=detail_table&idid=15773
+FBti0143876	VFB_00024024	BrainTrap	http://braintrap.inf.ed.ac.uk/braintrap/line/show?FBti=FBti0143876
+FBti0145066	VFB_00024210	BrainTrap	http://braintrap.inf.ed.ac.uk/braintrap/line/show?FBti=FBti0145066
+FBti0143924	VFB_00024219	BrainTrap	http://braintrap.inf.ed.ac.uk/braintrap/line/show?FBti=FBti0143924
