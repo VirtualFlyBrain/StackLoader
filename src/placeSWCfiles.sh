@@ -14,33 +14,34 @@ else
   do
     label=${VFBI[0]}
     ref=${VFBI[1]}
-    echo $ref 
+    echo $ref
     if [[ $ref == "VFB_"* ]]
     then
-    last=$(echo ${ref} | replace 'VFB_' '' | cut -c 5-)
-    first=$(echo ${ref} | replace 'VFB_' '' |  cut -c 1-4)
-    nf=$(ls ${dirName}*${label}*.swc 2>/dev/null | wc -l)
-    if [ $nf -gt 0 ]
-    then
-      if [ $nf -gt 1 ]
+      last=$(echo ${ref} | replace 'VFB_' '' | cut -c 5-)
+      first=$(echo ${ref} | replace 'VFB_' '' |  cut -c 1-4)
+      nf=$(ls ${dirName}*${label}*.swc 2>/dev/null | wc -l)
+      if [ $nf -gt 0 ]
       then
-        echo ERROR: Multiple files found for $label when processing $ref
-      else
-        echo Processing ${ref}...
-        file=$(ls ${dirName}*${label}*.swc 2>/dev/null)
-        echo Found file $file for $label
-        if [ -f $file ]
+        if [ $nf -gt 1 ]
         then
-          echo "Moving files:"
-          if [ ! -d ${imageDir}${first} ]
+          echo ERROR: Multiple files found for $label when processing $ref
+        else
+          echo Processing ${ref}...
+          file=$(ls ${dirName}*${label}*.swc 2>/dev/null)
+          echo Found file $file for $label
+          if [ -f $file ]
           then
-            mkdir ${imageDir}${first}
+            echo "Moving files:"
+            if [ ! -d ${imageDir}${first} ]
+            then
+              mkdir ${imageDir}${first}
+            fi
+            if [ ! -d ${imageDir}${first}/${last} ]
+            then
+              mkdir ${imageDir}${first}/${last}
+            fi
+            mv -v ${file} ${imageDir}${first}/${last}/volume.swc
           fi
-          if [ ! -d ${imageDir}${first}/${last} ]
-          then
-            mkdir ${imageDir}${first}/${last}
-          fi
-          mv -v ${file} ${imageDir}${first}/${last}/volume.swc
         fi
       fi
     fi
