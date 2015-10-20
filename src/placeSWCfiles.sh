@@ -43,6 +43,8 @@ else
             mv -v ${file} ${imageDir}${first}/${last}/volume.swc
           fi
         fi
+      else
+        echo No file found for $label
       fi
     fi
   done
