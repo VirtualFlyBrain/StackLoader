@@ -2,15 +2,15 @@
 # Find SWC files that match the label, move the original their VFB ref folder.
 echo Converting...
 source /partition/bocian/VFBTools/python-modules-2.6/bin/activate
-if [ ! -f ./linkData.tsv ]
+if [ ! -f ./linkSWCData.tsv ]
 then
-  echo "linkData.tsv file is missing! See linkData.tsv for an example"
+  echo "linkSWCData.tsv file is missing! See linkDataExample.tsv for an example"
   echo "No images set to load!"
 else
   export dirName='./PutAlignedFilesInHere/'
   export imageDir='/disk/data/VFB/IMAGE_DATA/VFB/i/'
 
-  cat linkData.tsv | while IFS=$'\t' read -ra VFBI
+  cat linkSWCData.tsv | while IFS=$'\t' read -ra VFBI
   do
     label=${VFBI[0]}
     ref=${VFBI[1]}
