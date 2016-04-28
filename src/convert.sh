@@ -12,7 +12,6 @@ else
   export fijiBin='nice /disk/data/VFBTools/Fiji/ImageJ-linux64 --headless'
   export sriptDir='/disk/data/VFB/IMAGE_DATA/StackProcessing/scripts/'
   export imageDir='/disk/data/VFB/IMAGE_DATA/VFB/i/'
-  export thumbGen='nice python /disk/data/VFBTools/3DstackDisplay/images2MaxProjPNG_tn.py'
   cat linkData.tsv | while IFS=$'\t' read -ra VFBI
   do 
     label=${VFBI[0]}
@@ -82,26 +81,6 @@ else
                 mv -v ${dirName}volume.wlz ${imageDir}${first}/${last}/volume.wlz
                 rm -v ${dirName}volume.nrrd
                 
-                echo "Handling Thumbnails:"
-                nf=$(ls ${dirName}*${label}*.png 2>/dev/null | wc -l)
-                if [ $nf -gt 0 ]
-                then
-                  if [ $nf -gt 1 ]
-                  then
-                    echo ERROR: Multiple files found for $label when processing $ref
-                  else
-                    file=$(ls ${dirName}*${label}*.png 2>/dev/null)
-                    mv -v $file ${imageDir}${first}/${last}/thumbnail.png
-                  fi
-                else
-                  echo WARNING: No thumbnail files found containing $label when processing $ref
-                  if [ ! -f ${imageDir}${first}/${last}/thumbnail.png ]
-		  then
-		  	echo Creating one...
-                  	${thumbGen} ${imageDir}${first}/${last}/volume.nrrd
-                  	mv -v ./volume_tn.png ${imageDir}${first}/${last}/thumbnail.png
-		  fi
-                fi
 		echo $ref complete
               else
                 echo "Error creating woolz!"
