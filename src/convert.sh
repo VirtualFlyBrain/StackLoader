@@ -85,7 +85,12 @@ else
                 then
                   rm -v ${imageDir}${first}/${last}/thumbnail.png
                 fi
-                
+                # clear 3d point cloud if one already exists. Auto-created independantly.
+                if [ -f ${imageDir}${first}/${last}/volume.obj ]
+                then
+                  rm -v ${imageDir}${first}/${last}/volume.obj
+                fi
+
 		echo $ref complete
               else
                 echo "Error creating woolz!"
