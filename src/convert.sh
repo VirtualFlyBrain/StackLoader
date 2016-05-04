@@ -13,7 +13,7 @@ else
   export sriptDir='/disk/data/VFB/IMAGE_DATA/StackProcessing/scripts/'
   export imageDir='/disk/data/VFB/IMAGE_DATA/VFB/i/'
   cat linkData.tsv | while IFS=$'\t' read -ra VFBI
-  do 
+  do
     label=${VFBI[0]}
     ref=${VFBI[1]}
     echo $ref 1>&3
@@ -32,17 +32,17 @@ else
           file=$(ls ${dirName}*${label}*.nrrd 2>/dev/null)
           echo Found file $file for $label
           echo Converting to woolz format...
-          if [ -f ${dirName}volume.wlz ] 
-          then 
+          if [ -f ${dirName}volume.wlz ]
+          then
             rm -v ${dirName}volume*
           fi
-          nice python /disk/data/VFBTools/python\ packages/Bound.py 3 ${file} ${dirName}volume.nrrd 
+          nice python /disk/data/VFBTools/python\ packages/Bound.py 3 ${file} ${dirName}volume.nrrd
           if [ -f ${dirName}volume.nrrd ]
           then
             script=$fijiBin' -macro '$sriptDir'nrrd2tif.ijm '${dirName}'volume.nrrd -batch'
             echo "Executing script: "$script
             $script
-            
+
             wait
             sleep 1
             if [ -f ${dirName}volume.tif ]
@@ -51,15 +51,15 @@ else
               script=$woolzDir'WlzExtFFConvert -f tif -F wlz -o '${dirName}'volume.wlz '${dirName}'volume.tif'
               echo "Executing Script: " $script
               $script
-              
+
               echo "Created woolz!"
-              
+
               script=$woolzDir"WlzThreshold -v2 "${dirName}"volume.wlz"
               echo "Theshold: " $script
               eval $script > ${dirName}volume_th.wlz
-              
+
               rm -v ${dirName}volume.wlz
-              
+
               script=$woolzDir"WlzSetVoxelSize ${voxelSize} "${dirName}"volume_th.wlz"
               echo "VoxelSize: " $script
               eval $script > ${dirName}volume.wlz
@@ -80,6 +80,11 @@ else
                 mv -v ${file} ${imageDir}${first}/${last}/volume.nrrd
                 mv -v ${dirName}volume.wlz ${imageDir}${first}/${last}/volume.wlz
                 rm -v ${dirName}volume.nrrd
+                # clear thumbnail if one already exists. Auto-created independantly.
+                if [ -f ${imageDir}${first}/${last}/thumbnail.png ]
+                then
+                  rm -v ${imageDir}${first}/${last}/thumbnail.png
+                fi
                 
 		echo $ref complete
               else
@@ -89,7 +94,7 @@ else
               echo ERROR: Failed to convet file $file into tif when processing $ref, $label
             fi
 
-    
+
           else
             echo ERROR: Failed to convet file $file found containing $label when processing $ref
           fi
@@ -100,6 +105,6 @@ else
     else
       echo WARNING: Not processing $ref, $label
     fi
-  done  
+  done
   chmod -R 777 ${imageDir} 2>/dev/null
 fi
