@@ -101,22 +101,22 @@ else
 
 		echo $ref complete
               else
-                echo "Error creating woolz!"
+                echo "Error creating woolz!" 1>&3
               fi
             else
-              echo ERROR: Failed to convet file $file into tif when processing $ref, $label
+              echo ERROR: Failed to convet file $file into tif when processing $ref, $label 1>&3
             fi
 
 
           else
-            echo ERROR: Failed to convet file $file found containing $label when processing $ref
+            echo ERROR: Failed to convet file $file found containing $label when processing $ref 1>&3
           fi
         fi
       else
-        echo ERROR: No files found containing $label when processing $ref
+        echo ERROR: No files found containing $label when processing $ref 1>&3
       fi
     else
-      echo WARNING: Not processing $ref, $label
+      echo WARNING: Not processing $ref, $label 1>&3
     fi
   done
   chmod -R 777 ${imageDir} 2>/dev/null
