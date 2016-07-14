@@ -54,7 +54,7 @@ else
 
               echo "Created woolz!"
 
-              script=$woolzDir"WlzThreshold -v2 "${dirName}"volume.wlz"
+              script=$woolzDir"WlzThreshold -H -v2 "${dirName}"volume.wlz"
               echo "Theshold: " $script
               eval $script > ${dirName}volume_th.wlz
 
