@@ -2,8 +2,9 @@
 # Set loaded files against the:
 # 001 - JFRC main brain
 # 002 - Ito Half Brain
-# 003 - Court Adult VNS
-# 004 - Wood Larval Brain
+# 003 - Wood Larval Brain
+# 004 - Court Adult VNS
+
 # template.
 echo Setting Meta Data... 1>&3
 if [ ! -f ./linkData.tsv ]
