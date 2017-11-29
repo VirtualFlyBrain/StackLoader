@@ -36,7 +36,7 @@ else
           then
             rm -v ${dirName}volume*
           fi
-          nice python /disk/data/VFBTools/python\ packages/Bound.py 3 ${file} ${dirName}volume.nrrd
+          nice python /partition/bocian/VFBTools/Bound/Bound.py 3 ${file} ${dirName}volume.nrrd
           if [ -f ${dirName}volume.nrrd ]
           then
             script=$fijiBin' -macro '$sriptDir'nrrd2tif.ijm '${dirName}'volume.nrrd -batch'
