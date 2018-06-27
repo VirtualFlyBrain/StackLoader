@@ -22,8 +22,8 @@ else
     echo $ref 1>&3
     if [[ $ref == "VFB_"* ]]
     then
-      last=$(echo ${ref} | replace 'VFB_' '' | cut -c 5-)
-      first=$(echo ${ref} | replace 'VFB_' '' |  cut -c 1-4)
+      last=$(echo ${ref} | sed 's|VFB_||g' | cut -c 5-)
+      first=$(echo ${ref} | sed 's|VFB_||g' |  cut -c 1-4)
       if [ -f ${imageDir}${first}/${last}/volume.nrrd ]
       then
         sliceNum=$(python /partition/bocian/VFBTools/NRRDtools/sliceNumber.py ${imageDir}${first}/${last}/volume.nrrd)
@@ -33,7 +33,7 @@ else
       else
         dist=0
       fi
-      cat ${templateDir}${jsoTemplate} | replace 'FFFF' ${first} | replace 'LLLL' ${last} | replace '"distance":"0"' '"distance":"'${dist}'"' > ${imageDir}${first}/${last}/data.jso
+      cat ${templateDir}${jsoTemplate} | sed "s|FFFF|${first}|g" | sed "s|LLLL|${last}|g" | sec "s|\"distance\":\"0\"|\"distance\":\"${dist}\"|g" > ${imageDir}${first}/${last}/data.jso
       echo Created json data file for $ref
       echo '<html><head><meta HTTP-EQUIV="REFRESH" content="0; url=/site/tools/view_stack/3rdPartyStack.htm?tpbid='${ref}'"></head></html>' > ${imageDir}${first}/${last}/index.html
       echo Created html link file for $ref
@@ -51,7 +51,7 @@ else
   echo ------------------------------------------------------
   echo Now run the following comand inside the owl directory of the repository you want to add the files new files to
   echo .
-  printf '%s\n' "cat /partition/karenin/VFB/IMAGE_DATA/StackLoader/linkData.tsv | while IFS=$'\t' read -ra VFBI; do last=$(echo ${VFBI[1]} | replace 'VFB_' '' | cut -c 5-) ; first=$(echo ${VFBI[1]} | replace 'VFB_' '' |  cut -c 1-4) ; ref=$(echo ${VFBI[1]} | replace 'VFB_' 'VFBi_' ) ; ln -sf ../data/VFB/i/$first/$last/ ./$ref ; ln -sf ./${ref}/index.html ./${VFBI[1]} ; echo $ref ;done"
+  printf '%s\n' "cat /partition/karenin/VFB/IMAGE_DATA/StackLoader/linkData.tsv | while IFS=$'\t' read -ra VFBI; do last=$(echo ${VFBI[1]} | sed 's|VFB_||g' | cut -c 5-) ; first=$(echo ${VFBI[1]} | sed 's|VFB_||g' |  cut -c 1-4) ; ref=$(echo ${VFBI[1]} | sed 's|VFB_|VFBi_|g') ; ln -sf ../data/VFB/i/$first/$last/ ./$ref ; ln -sf ./${ref}/index.html ./${VFBI[1]} ; echo $ref ;done"
   echo .
   echo ------------------------------------------------------
 fi
