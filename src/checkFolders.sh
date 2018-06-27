@@ -7,7 +7,7 @@ echo reference$'\t'data.jso$'\t'thumbnail.png$'\t'index.html$'\t'volume.nrrd > h
 head -n 1 history/completeDataSet.tsv > history/missingData.tsv
 for folder in /partition/karenin/VFB/IMAGE_DATA/VFB/i/*/*/
 do 
-ref=$(echo ${folder} | sed 's|/||g' | replace 'partitionkareninVFBIMAGE_DATAVFBi' 'VFB_')$'\t'
+ref=$(echo ${folder} | sed 's|/||g' | sed 's|partitionkareninVFBIMAGE_DATAVFBi|VFB_|g')$'\t'
 result=${ref}
 echo $ref
 echo $ref 1>&3
