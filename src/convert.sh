@@ -19,8 +19,8 @@ else
     echo $ref 1>&3
     if [[ $ref == "VFB_"* ]]
     then
-      last=$(echo ${ref} | replace 'VFB_' '' | cut -c 5-)
-      first=$(echo ${ref} | replace 'VFB_' '' |  cut -c 1-4)
+      last=$(echo ${ref} | sed 's|VFB_||g' | cut -c 5-)
+      first=$(echo ${ref} | sed 's|VFB_||g' |  cut -c 1-4)
       nf=$(ls ${dirName}*${label}*.nrrd 2>/dev/null | wc -l)
       if [ $nf -gt 0 ]
       then
