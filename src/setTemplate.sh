@@ -33,7 +33,7 @@ else
       else
         dist=0
       fi
-      cat ${templateDir}${jsoTemplate} | sed "s|FFFF|${first}|g" | sed "s|LLLL|${last}|g" | sec "s|\"distance\":\"0\"|\"distance\":\"${dist}\"|g" > ${imageDir}${first}/${last}/data.jso
+      cat ${templateDir}${jsoTemplate} | sed "s|FFFF|${first}|g" | sed "s|LLLL|${last}|g" | sed "s|\"distance\":\"0\"|\"distance\":\"${dist}\"|g" > ${imageDir}${first}/${last}/data.jso
       echo Created json data file for $ref
       echo '<html><head><meta HTTP-EQUIV="REFRESH" content="0; url=/site/tools/view_stack/3rdPartyStack.htm?tpbid='${ref}'"></head></html>' > ${imageDir}${first}/${last}/index.html
       echo Created html link file for $ref
