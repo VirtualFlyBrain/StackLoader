@@ -3,3 +3,4 @@ linkSWCData.tsv
 volume_tn.png
 *.log
 
+.DS_Store
