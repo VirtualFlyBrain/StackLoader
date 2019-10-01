@@ -1,6 +1,6 @@
 
 pattern.add_dataSet('EM FAFB Zheng et al 2018','VFBlicense_CC_BY_SA_4_0','Zheng2018',pub='FBrf0240126',description='FAFB EM reconstructed neurons from Zheng et al 2018');
-pattern.add_dataSet('EM FAFB Felsenberg et al. 2018','VFBlicense_CC_BY_SA_4_0',' Felsenberg2018',pub='FBrf0240371',description='FAFB EM reconstructed neurons from Felsenberg et al 2018');
+pattern.add_dataSet('EM FAFB Felsenberg et al. 2018','VFBlicense_CC_BY_SA_4_0','Felsenberg2018',pub='FBrf0240371',description='FAFB EM reconstructed neurons from Felsenberg et al 2018');
 pattern.add_dataSet('EM FAFB Dolan et al. 2019','VFBlicense_CC_BY_SA_4_0','Dolan2019',pub='FBrf0242477',description='FAFB EM reconstructed neurons from Dolan et al. 2019');
 pattern.add_dataSet('EM FAFB Dolan and Belliart-Guerin et al. 2018','VFBlicense_CC_BY_SA_4_0','Dolan2018',pub='FBrf0240600',description='FAFB EM reconstructed neurons from Dolan and Belliart-Guerin et al. 2018');
 
@@ -255,8 +255,8 @@ pattern.add_anatomy_image_set('Dolan2019','TEM', 'PV4d1#1',100000,'VFBc_00017894
 pattern.add_anatomy_image_set('Dolan2019','TEM', 'PV12a1#1',100000,'VFBc_00017894','FBbt_00005106',image_filename='FAFB11545702'); 
 pattern.add_anatomy_image_set('Dolan2019','TEM', 'MB-C1#1',100000,'VFBc_00017894','FBbt_00100226',image_filename='FAFB535060'); 
 pattern.add_anatomy_image_set('Dolan2019','TEM', 'MBON-Calyx#1',100000,'VFBc_00017894','FBbt_00100240',image_filename='FAFB30591'); 
-pattern.add_anatomy_image_set('Felsenberg2018','TEM', 'Neuron 4291900 Putative MBON-B`2mp',100000,'VFBc_00017894','FBbt_00100232',image_filename='FAFB4291899'); #TODO FIX ISSUE!!!
-pattern.add_anatomy_image_set('Felsenberg2018','TEM', 'MBON-y5B`2a 2109446 NS',100000,'VFBc_00017894','FBbt_00100234',image_filename='FAFB2109445'); #TODO FIX ISSUE!!!
-pattern.add_anatomy_image_set('Felsenberg2018','TEM', 'MBON-y1pedc>a/B 298954 JSL',100000,'VFBc_00017894','FBbt_00100246',image_filename='FAFB2333007'); #TODO FIX ISSUE!!!
+pattern.add_anatomy_image_set('Felsenberg2018','TEM', "Neuron 4291900 Putative MBON-B'2mp",100000,'VFBc_00017894','FBbt_00100232',image_filename='FAFB4291899');
+pattern.add_anatomy_image_set('Felsenberg2018','TEM', "MBON-y5B'2a 2109446 NS",100000,'VFBc_00017894','FBbt_00100234',image_filename='FAFB2109445'); 
+pattern.add_anatomy_image_set('Felsenberg2018','TEM', "MBON-y1pedc>a/B 298954 JSL",100000,'VFBc_00017894','FBbt_00100246',image_filename='FAFB2333007'); 
 
 pattern.commit();
