@@ -1,6 +1,3 @@
-from uk.ac.ebi.vfb.neo4j.KB_tools import KB_pattern_writer; 
-
-pattern = KB_pattern_writer('http://kbw.virtualflybrain.org:7474','neo4j','baNi8HaC');
 
 pattern.add_dataSet('EM FAFB Zheng et al 2018','VFBlicense_CC_BY_SA_4_0','Zheng2018',pub='FBrf0240126',description='FAFB EM reconstructed neurons from Zheng et al 2018');
 pattern.add_dataSet('EM FAFB Felsenberg et al. 2018','VFBlicense_CC_BY_SA_4_0',' Felsenberg2018',pub='FBrf0240371',description='FAFB EM reconstructed neurons from Felsenberg et al 2018');
