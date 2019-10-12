@@ -3,7 +3,7 @@
 # Note: All files will be removed after processing.
 # Then apply these stacks against CATMAID Larval L1 light level template (005)
 export template=005
-export voxelSize='-x380.0 -y380.0 -z50.0'
-export zSlice='50.0'
+export voxelSize='-x0.243 -y0.243 -z0.5'
+export zSlice='0.5'
 ./src/convert.sh
 ./src/setTemplate.sh
