@@ -8,10 +8,10 @@ then
   echo "No images set to load!" 1>&3
 else
   export dirName='./PutAlignedFilesInHere/'
-  export woolzDir='nice /disk/data/VFBTools/Woolz2013Full/bin/'
-  export fijiBin='nice /disk/data/VFBTools/Fiji/ImageJ-linux64 --headless'
-  export sriptDir='/disk/data/VFB/IMAGE_DATA/StackProcessing/scripts/'
-  export imageDir='/disk/data/VFB/IMAGE_DATA/VFB/i/'
+  export woolzDir="nice ${woolzDir:-/disk/data/VFBTools/Woolz2013Full/bin/}"
+  export fijiBin="nice ${fijiBin:-/disk/data/VFBTools/Fiji/ImageJ-linux64} --headless"
+  export sriptDir="${sriptDir:-/disk/data/VFB/IMAGE_DATA/StackProcessing/scripts/}"
+  export imageDir="${imageDir:-/disk/data/VFB/IMAGE_DATA/VFB/i/}"
   cat linkData.tsv | while IFS=$'\t' read -ra VFBI
   do
     label=${VFBI[0]}
